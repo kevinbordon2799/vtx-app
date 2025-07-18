@@ -1,1412 +1,1422 @@
 [
-    {
-        "id": 2,
-        "productName": "Flotante Automático para Tanque - Metaplast",
-        "price": 8505
-    },
-    {
-        "id": 3,
-        "productName": "Punto simple | Toma 10a simple (CHATO) (Jeluz exterior)",
-        "price": 1300
-    },
-    {
-        "id": 4,
-        "productName": "Punto y toma | Toma doble | doble punto (CHATO) (Jeluz exterior)",
-        "price": 2400
-    },
-    {
-        "id": 5,
-        "productName": "Adaptador común 3 patas a 2 patas",
-        "price": 500
-    },
-    {
-        "id": 6,
-        "productName": "Adaptador triple | Adaptador doble",
-        "price": 1600
-    },
-    {
-        "id": 7,
-        "productName": "Alicate corte diagonal 180mm (7\") mango ergonómico (Jadever)",
-        "price": 7800
-    },
-    {
-        "id": 8,
-        "productName": "Batería - Pila 9v (Vinnic)",
-        "price": 2900
-    },
-    {
-        "id": 9,
-        "productName": "Cable Alimentación (Tipo 8)",
-        "price": 2800
-    },
-    {
-        "id": 10,
-        "productName": "Cable Alimentación (Tipo trébol)",
-        "price": 3900
-    },
-    {
-        "id": 11,
-        "productName": "Cable alimentación calefón eléctrico (1,9 metros)",
-        "price": 4900
-    },
-    {
-        "id": 12,
-        "productName": "Cable alimentación calefón eléctrico 2 metros (Indelplas)",
-        "price": 5700
-    },
-    {
-        "id": 13,
-        "productName": "Cable canal 14x7",
-        "price": 1268.2
-    },
-    {
-        "id": 14,
-        "productName": "Cable canal 18x21",
-        "price": 2592.8
-    },
-    {
-        "id": 15,
-        "productName": "Cable canal 20x10",
-        "price": 1591.2
-    },
-    {
-        "id": 16,
-        "productName": "Cable textil para plancha (bipolar)",
-        "price": 2000
-    },
-    {
-        "id": 17,
-        "productName": "Caja 10x10 embutir (CHAPA)",
-        "price": 800
-    },
-    {
-        "id": 18,
-        "productName": "Caja 10x10 embutir (PVC)",
-        "price": 522
-    },
-    {
-        "id": 19,
-        "productName": "Caja cable canal para bastidor / portabastidor",
-        "price": 600
-    },
-    {
-        "id": 20,
-        "productName": "Caja de paso estanca 115x115x50 | 115x115x60",
-        "price": 1900
-    },
-    {
-        "id": 21,
-        "productName": "Caja de paso estanca 115x115x80",
-        "price": 2300
-    },
-    {
-        "id": 22,
-        "productName": "Caja de paso estanca 90x90x55",
-        "price": 1618.5
-    },
-    {
-        "id": 23,
-        "productName": "Caja octogonal embutir (PVC)",
-        "price": 300
-    },
-    {
-        "id": 24,
-        "productName": "Caja rectangular embutir (PVC)",
-        "price": 300
-    },
-    {
-        "id": 25,
-        "productName": "Caja mignon embutir (chapa)",
-        "price": 400
-    },
-    {
-        "id": 26,
-        "productName": "Caja octogonal embutir (chapa)",
-        "price": 400
-    },
-    {
-        "id": 27,
-        "productName": "Caja para térmicas 12 bocas (embutir)",
-        "price": 9362.6
-    },
-    {
-        "id": 28,
-        "productName": "Caja para térmicas 12 bocas (exterior)",
-        "price": 4764.5
-    },
-    {
-        "id": 29,
-        "productName": "Caja para térmicas 2 bocas (exterior)",
-        "price": 1500
-    },
-    {
-        "id": 30,
-        "productName": "Caja para térmicas 4 bocas (exterior)",
-        "price": 1900
-    },
-    {
-        "id": 31,
-        "productName": "Caja para térmicas 4 bocas (pilar)",
-        "price": 5200
-    },
-    {
-        "id": 32,
-        "productName": "Caja para térmicas 8 bocas (embutir)",
-        "price": 7052.5
-    },
-    {
-        "id": 33,
-        "productName": "Caja para térmicas 8 bocas (exterior)",
-        "price": 3685.5
-    },
-    {
-        "id": 34,
-        "productName": "Caja rectangular embutir (chapa)",
-        "price": 400
-    },
-    {
-        "id": 35,
-        "productName": "Calefón calentador eléctrico DILUVIO (20 litros) (resistencia de acero)",
-        "price": 12900
-    },
-    {
-        "id": 36,
-        "productName": "Calorito Ebulllidor - Calentador - Hervidor",
-        "price": 2800
-    },
-    {
-        "id": 37,
-        "productName": "Candado 30mm 3 llaves hierro (JDPD1450) (Jadever)",
-        "price": 5348.2
-    },
-    {
-        "id": 38,
-        "productName": "Candado 50mm 3 llaves hierro (JDPD1450) (Jadever)",
-        "price": 10468.9
-    },
-    {
-        "id": 39,
-        "productName": "Canilla doble PVC (conexión lavarropa)",
-        "price": 1500
-    },
-    {
-        "id": 40,
-        "productName": "Canilla plástica PVC 1/2\"",
-        "price": 900
-    },
-    {
-        "id": 41,
-        "productName": "Canilla válvula esférica 3/4\" (JDVB3812) (Jadever)",
-        "price": 4800
-    },
-    {
-        "id": 42,
-        "productName": "Cinta Aisladora de Tela Automóviles",
-        "price": 4900
-    },
-    {
-        "id": 43,
-        "productName": "Cinta métrica 3 metros (EVEL)",
-        "price": 6928.2
-    },
-    {
-        "id": 44,
-        "productName": "Cinta pasacable 10 metros (ACERO)",
-        "price": 5131.88
-    },
-    {
-        "id": 45,
-        "productName": "Cinta pasacable 15 metros (ACERO)",
-        "price": 6900
-    },
-    {
-        "id": 46,
-        "productName": "Cinta pasacable 15 metros (PVC)",
-        "price": 2900
-    },
-    {
-        "id": 47,
-        "productName": "Conector ficha macho CCTV",
-        "price": 400
-    },
-    {
-        "id": 48,
-        "productName": "Decapante para soldadura (DELTA)",
-        "price": 1900
-    },
-    {
-        "id": 49,
-        "productName": "Desoldador succionador estaño (Kushiro)",
-        "price": 4422
-    },
-    {
-        "id": 50,
-        "productName": "Destornillador Buscapolo 250v 3x140mm (Jadever)",
-        "price": 1500
-    },
-    {
-        "id": 51,
-        "productName": "Destornilladores Chicos (plano/phillips) (Jadever)",
-        "price": 1700
-    },
-    {
-        "id": 52,
-        "productName": "Destornilladores Grandes (plano/phillips) (Jadever)",
-        "price": 2600
-    },
-    {
-        "id": 53,
-        "productName": "Destornilladores Medianos (plano/phillips) (Jadever)",
-        "price": 2100
-    },
-    {
-        "id": 54,
-        "productName": "Disco flap 115mm (LUXOM)",
-        "price": 1000
-    },
-    {
-        "id": 55,
-        "productName": "Driver para panel LED 12w (KING)",
-        "price": 1447.5
-    },
-    {
-        "id": 56,
-        "productName": "Driver para panel LED 12w (Macroled)",
-        "price": 4207.95
-    },
-    {
-        "id": 57,
-        "productName": "Driver para panel LED 18w (KING)",
-        "price": 1560
-    },
-    {
-        "id": 58,
-        "productName": "Driver para panel LED 18w (Macroled)",
-        "price": 5042.25
-    },
-    {
-        "id": 59,
-        "productName": "Driver para panel LED 24w (Macroled)",
-        "price": 5478.3
-    },
-    {
-        "id": 60,
-        "productName": "Electrodo 2,5mm (6013) P A - (Precio unidad) 18grs aprox",
-        "price": 113.4
-    },
-    {
-        "id": 61,
-        "productName": "Ficha hembra calefón (negra)",
-        "price": 700
-    },
-    {
-        "id": 62,
-        "productName": "Ficha hembra 10A (simil KALOP | simil RICHI)",
-        "price": 900
-    },
-    {
-        "id": 63,
-        "productName": "Ficha hembra 20A (20 ampéres) (ciocca)",
-        "price": 1300
-    },
-    {
-        "id": 64,
-        "productName": "Ficha hembra calefón (indelplas)",
-        "price": 700
-    },
-    {
-        "id": 65,
-        "productName": "Ficha macho / hembra 20A (20 ampéres) (MIG)",
-        "price": 2300
-    },
-    {
-        "id": 66,
-        "productName": "Ficha macho 10A (línea IH3)",
-        "price": 1100
-    },
-    {
-        "id": 67,
-        "productName": "Ficha macho 10A (simil KALOP | simil RICHI)",
-        "price": 900
-    },
-    {
-        "id": 68,
-        "productName": "Ficha macho 20A (20 ampéres) (ciocca)",
-        "price": 1300
-    },
-    {
-        "id": 69,
-        "productName": "Ficha macho trifásica 380v 32a",
-        "price": 7000
-    },
-    {
-        "id": 70,
-        "productName": "Ficha macho velador - (blanco/negro)",
-        "price": 500
-    },
-    {
-        "id": 71,
-        "productName": "Ficha/Interruptor velador (blanco/negro)",
-        "price": 500
-    },
-    {
-        "id": 72,
-        "productName": "Portalámpara Florón curvo/receptáculo",
-        "price": 800
-    },
-    {
-        "id": 73,
-        "productName": "Portalámpara Florón grande recto",
-        "price": 1100
-    },
-    {
-        "id": 74,
-        "productName": "Flux en GEL - Jeringa 10cc - DELTA",
-        "price": 3000
-    },
-    {
-        "id": 75,
-        "productName": "Lámpara incandecescente de colores 15W",
-        "price": 1100
-    },
-    {
-        "id": 76,
-        "productName": "Fotocélula 1200w - LUXOM",
-        "price": 5900
-    },
-    {
-        "id": 77,
-        "productName": "Fotocélula 1200w 6A - MACROLED",
-        "price": 7410
-    },
-    {
-        "id": 78,
-        "productName": "Fratacho / Filtro 20cm - Goma Espuma",
-        "price": 900
-    },
-    {
-        "id": 79,
-        "productName": "Fuente alimentación 12v 1A",
-        "price": 6100
-    },
-    {
-        "id": 80,
-        "productName": "Fuente alimentación 12v 2A",
-        "price": 6900
-    },
-    {
-        "id": 81,
-        "productName": "Grampas / sujeta cables cable coaxil RG6",
-        "price": 50
-    },
-    {
-        "id": 82,
-        "productName": "Guantes de alta temperatura",
-        "price": 30000
-    },
-    {
-        "id": 83,
-        "productName": "Guantes de cuero vaqueta",
-        "price": 4500
-    },
-    {
-        "id": 84,
-        "productName": "Guantes moteados albañil",
-        "price": 1200
-    },
-    {
-        "id": 85,
-        "productName": "Guirnaldas de luces armadas - (10 metros)",
-        "price": 12900
-    },
-    {
-        "id": 86,
-        "productName": "Inflador 3 picos cilindro de acero (JDPP1C01) (Jadever)",
-        "price": 12972
-    },
-    {
-        "id": 87,
-        "productName": "Jabalina 1/2\" con tomacable",
-        "price": 18000
-    },
-    {
-        "id": 88,
-        "productName": "Juego Kit 4 destornilladores (JDSS2204) (Jadever)",
-        "price": 6439.45
-    },
-    {
-        "id": 89,
-        "productName": "Juego Kit 6 destornilladores (Jadever)",
-        "price": 11702.6
-    },
-    {
-        "id": 90,
-        "productName": "Kit puntas destornillador 12 piezas (JDSS1612) (Jadever)",
-        "price": 6500
-    },
-    {
-        "id": 91,
-        "productName": "Kit repuestos calefón flor ducha",
-        "price": 1500
-    },
-    {
-        "id": 92,
-        "productName": "Lámpara de señalización blanco 5w (12v) (Halógena) (Fría) (Auto)",
-        "price": 400
-    },
-    {
-        "id": 93,
-        "productName": "Lámpara Dicroica LED 5w (MACROLED) (Fría/Cálida)",
-        "price": 1300
-    },
-    {
-        "id": 94,
-        "productName": "Lámpara Dicroica LED 7w (MACROLED) (Fría/Cálida)",
-        "price": 1700
-    },
-    {
-        "id": 95,
-        "productName": "Lámpara FILAMENTO 3w (AMBAR) (E27) (MACROLED)",
-        "price": 4300
-    },
-    {
-        "id": 96,
-        "productName": "Lámpara FILAMENTO 4w (Cálida) (E14) (MACROLED)",
-        "price": 2400
-    },
-    {
-        "id": 97,
-        "productName": "Lámpara FILAMENTO 5w (AMBAR) (E27) (MACROLED)",
-        "price": 6300
-    },
-    {
-        "id": 98,
-        "productName": "Lámpara incandescente 15w (LUXOM / FRANCE) - Gota Decorativa",
-        "price": 850
-    },
-    {
-        "id": 99,
-        "productName": "Lámpara LED 14w / 15w (Candela)",
-        "price": 1300
-    },
-    {
-        "id": 100,
-        "productName": "Lámpara LED 14w / 15w (KING)",
-        "price": 1400
-    },
-    {
-        "id": 101,
-        "productName": "Lámpara LED 5w (Sica)",
-        "price": 800
-    },
-    {
-        "id": 102,
-        "productName": "Lámpara LED 6,5w / 7w (KING)",
-        "price": 800
-    },
-    {
-        "id": 103,
-        "productName": "Lámpara LED 6,5w / 7w (MACROLED) (Fría/Cálida)",
-        "price": 900
-    },
-    {
-        "id": 104,
-        "productName": "Lámpara LED 60w (MACROLED) (Fría/Cálida) (E27)",
-        "price": 17399.2
-    },
-    {
-        "id": 105,
-        "productName": "Lámpara LED 9,5w / 10w (KING)",
-        "price": 900
-    },
-    {
-        "id": 106,
-        "productName": "Lámpara LED 9W (Sol de noche)",
-        "price": 1000
-    },
-    {
-        "id": 107,
-        "productName": "Lámpara LED 9w / 10w (MACROLED)",
-        "price": 1000
-    },
-    {
-        "id": 108,
-        "productName": "Lámpara LED bulbón 19w / 20w (KING)",
-        "price": 2500
-    },
-    {
-        "id": 109,
-        "productName": "Lámpara LED bulbón 28w / 30w (KING)",
-        "price": 4100
-    },
-    {
-        "id": 110,
-        "productName": "Lámpara LED bulbón 28w / 30w (MACROLED)",
-        "price": 4700
-    },
-    {
-        "id": 111,
-        "productName": "Lámpara LED bulbón 38w / 40w (MACROLED)",
-        "price": 7104.24
-    },
-    {
-        "id": 112,
-        "productName": "Lámpara LED bulbón 48w / 50w (MACROLED)",
-        "price": 10281.7
-    },
-    {
-        "id": 113,
-        "productName": "Lámpara LED dicróica 5w (KING) (Fría/Cálida)",
-        "price": 1100
-    },
-    {
-        "id": 114,
-        "productName": "Lámpara LED dicróica 7w (KING) (Fría/Cálida)",
-        "price": 1200
-    },
-    {
-        "id": 115,
-        "productName": "Lámpara LED T10 Siliconado Largo (12v) (Luz posición) (Fría) (Auto)",
-        "price": 700
-    },
-    {
-        "id": 116,
-        "productName": "Lámpara perfume 15W (France) E14 (para lámparas de sal, heladeras, etc)",
-        "price": 900
-    },
-    {
-        "id": 117,
-        "productName": "Lápiz Soldador de estaño 40W (Kushiro)",
-        "price": 9200
-    },
-    {
-        "id": 118,
-        "productName": "Linternita 9 LEDs",
-        "price": 2200
-    },
-    {
-        "id": 119,
-        "productName": "Liston para tubo LED (120cm)",
-        "price": 4124.9
-    },
-    {
-        "id": 120,
-        "productName": "Liston para tubo LED (60cm)",
-        "price": 3019.55
-    },
-    {
-        "id": 121,
-        "productName": "Llave mandril taladro 13mm",
-        "price": 2700
-    },
-    {
-        "id": 122,
-        "productName": "Machete acero al carbono 10\" (Jadever)",
-        "price": 6939
-    },
-    {
-        "id": 123,
-        "productName": "Machete acero al carbono 20\" (Jadever)",
-        "price": 8501.94
-    },
-    {
-        "id": 124,
-        "productName": "Martillo 300g (JDHM1303) (Jadever)",
-        "price": 8500
-    },
-    {
-        "id": 125,
-        "productName": "Panel flat LED embutir 18w (Cuadrado) (MDL) (Fría/Cálida)",
-        "price": 5900
-    },
-    {
-        "id": 126,
-        "productName": "Panel flat LED embutir 24w (Cuadrado) (MDL) (Fría/Cálida)",
-        "price": 10862.6
-    },
-    {
-        "id": 127,
-        "productName": "Panel plafón LED 12w (Circular) (KING) (Fría/Cálida)",
-        "price": 5510.7
-    },
-    {
-        "id": 128,
-        "productName": "Panel plafón LED 18w (Circular) (KING) (Fría/Cálida)",
-        "price": 7221.9
-    },
-    {
-        "id": 129,
-        "productName": "Panel plafón LED 18w (Cuadrado) (MACROLED) (Fría/Cálida)",
-        "price": 12807.6
-    },
-    {
-        "id": 130,
-        "productName": "Panel plafón LED 24w (Circular) (KING) (Fría/Cálida)",
-        "price": 11463.4
-    },
-    {
-        "id": 131,
-        "productName": "Panel plafón LED 6w (Circular) (KING) (Fría/Cálida)",
-        "price": 3828.6
-    },
-    {
-        "id": 132,
-        "productName": "Panel plafón LED 6w (Circular) (MACROLED) (Fría/Cálida)",
-        "price": 5512
-    },
-    {
-        "id": 133,
-        "productName": "Pasta térmica para CPU Hy510 - PC/Computadora/Microprocesador",
-        "price": 1100
-    },
-    {
-        "id": 134,
-        "productName": "Pegamento ECCOLE",
-        "price": 4700
-    },
-    {
-        "id": 135,
-        "productName": "Pegamento FASTIX",
-        "price": 4800
-    },
-    {
-        "id": 136,
-        "productName": "Pegamento POXIRAN",
-        "price": 3900
-    },
-    {
-        "id": 137,
-        "productName": "Pegamento UNIPOX",
-        "price": 2000
-    },
-    {
-        "id": 138,
-        "productName": "Pila 23A 12v (Vinnic)",
-        "price": 1100
-    },
-    {
-        "id": 139,
-        "productName": "Pila Botón CR2032 Litio (Energizer)",
-        "price": 1100
-    },
-    {
-        "id": 140,
-        "productName": "Pila Botón CR2032 Litio (Vinnic)",
-        "price": 700
-    },
-    {
-        "id": 141,
-        "productName": "Pilas AA | AAA (Energizer)",
-        "price": 750
-    },
-    {
-        "id": 142,
-        "productName": "Pincel 1 - 1/2\" - Condor",
-        "price": 1800
-    },
-    {
-        "id": 143,
-        "productName": "Pincel 1\" - Condor",
-        "price": 1500
-    },
-    {
-        "id": 144,
-        "productName": "Pincel Número 15 - ROSARPIN",
-        "price": 3200
-    },
-    {
-        "id": 145,
-        "productName": "Pincel Número 20 - ROSARPIN",
-        "price": 3500
-    },
-    {
-        "id": 146,
-        "productName": "Pinceles 50mm (Jadever)",
-        "price": 1600
-    },
-    {
-        "id": 147,
-        "productName": "Pinceles 75mm (Jadever)",
-        "price": 2900
-    },
-    {
-        "id": 148,
-        "productName": "Pinza alicate 6\" Mango Aislado Rojo - (INTERELEC)",
-        "price": 19000
-    },
-    {
-        "id": 149,
-        "productName": "Pinza Alicate Corte Oblicuo 7 - 1/2\" - (INTERELEC)",
-        "price": 11900
-    },
-    {
-        "id": 150,
-        "productName": "Pinza de punta larga 200mm (8\") mango ergonómico (Jadever)",
-        "price": 7800
-    },
-    {
-        "id": 151,
-        "productName": "Pinza de punta y corte (Truper)",
-        "price": 18900
-    },
-    {
-        "id": 152,
-        "productName": "Pinza pelacables 215mm (8,5\") (Jadever)",
-        "price": 11310
-    },
-    {
-        "id": 153,
-        "productName": "Pinza universal 180mm (7\") mango ergonómico (Jadever)",
-        "price": 7800
-    },
-    {
-        "id": 154,
-        "productName": "Pinza universal común 6\" (color rojo)",
-        "price": 12900
-    },
-    {
-        "id": 155,
-        "productName": "Plafón LED Cuadrado 18W",
-        "price": 6500
-    },
-    {
-        "id": 156,
-        "productName": "Portalámpara colgante (blanco / negro)",
-        "price": 6000
-    },
-    {
-        "id": 157,
-        "productName": "Portalámpara E27 enchufable con interruptor",
-        "price": 1500
-    },
-    {
-        "id": 158,
-        "productName": "Portalámpara Mignon 3 piezas (E14)",
-        "price": 800
-    },
-    {
-        "id": 159,
-        "productName": "Portalámparas 3 partes",
-        "price": 700
-    },
-    {
-        "id": 160,
-        "productName": "Portalámparas cerámico",
-        "price": 1100
-    },
-    {
-        "id": 161,
-        "productName": "Precintos 100 x 2,5mm (Chico)",
-        "price": 15
-    },
-    {
-        "id": 162,
-        "productName": "Precintos 150 x 3,6mm (Mediano)",
-        "price": 35
-    },
-    {
-        "id": 163,
-        "productName": "Precintos 250 x 4,8mm (Grande)",
-        "price": 45
-    },
-    {
-        "id": 164,
-        "productName": "Prolongador/Zapatilla eléctrica con interruptor (1,5 metros) (INTECK)",
-        "price": 11378.9
-    },
-    {
-        "id": 165,
-        "productName": "Prolongador/Zapatilla eléctrica con interruptor (1,5 metros) (SICA)",
-        "price": 9200
-    },
-    {
-        "id": 166,
-        "productName": "Protector de tensión 10a BAW",
-        "price": 15000
-    },
-    {
-        "id": 167,
-        "productName": "Protector/tapa para tomacorriente - niños - bebe",
-        "price": 300
-    },
-    {
-        "id": 168,
-        "productName": "Protectores auditivos",
-        "price": 1500
-    },
-    {
-        "id": 169,
-        "productName": "Pulsador timbre simple (ciocca)",
-        "price": 1500
-    },
-    {
-        "id": 170,
-        "productName": "Punto simple exterior (ciocca)",
-        "price": 1200
-    },
-    {
-        "id": 171,
-        "productName": "Punto y toma exterior 10A (ciocca)",
-        "price": 1800
-    },
-    {
-        "id": 172,
-        "productName": "Raqueta mata moscas y mosquitos USB",
-        "price": 8900
-    },
-    {
-        "id": 173,
-        "productName": "Reflector LED 10 W (Luz Fría)(Candela / KING)",
-        "price": 3800
-    },
-    {
-        "id": 174,
-        "productName": "Reflector LED 20 W (Luz Fría) (Candela / KING)",
-        "price": 5787.6
-    },
-    {
-        "id": 175,
-        "productName": "Reflector LED 30 W (Luz Fría) (Candela / KING)",
-        "price": 6700
-    },
-    {
-        "id": 176,
-        "productName": "Reflector LED 30w (Cuadrado) (MACROLED) (Fría/Cálida)",
-        "price": 16250
-    },
-    {
-        "id": 177,
-        "productName": "Reflector LED 50 W (Luz Fría) (Candela / KING)",
-        "price": 9500
-    },
-    {
-        "id": 178,
-        "productName": "Resistencia ACERO calefón",
-        "price": 6000
-    },
-    {
-        "id": 179,
-        "productName": "Resistencia BRONCE calefón",
-        "price": 6709.5
-    },
-    {
-        "id": 180,
-        "productName": "Serie 100 luces navidad/navideñas",
-        "price": 4300
-    },
-    {
-        "id": 181,
-        "productName": "Soporte universal celular para ventilación auto (gps)",
-        "price": 950
-    },
-    {
-        "id": 182,
-        "productName": "Spot Dicroica (blanco / negro)",
-        "price": 1236.6
-    },
-    {
-        "id": 183,
-        "productName": "Spot tulipa simple",
-        "price": 6700
-    },
-    {
-        "id": 184,
-        "productName": "Tapa ciega chica octogonal",
-        "price": 150
-    },
-    {
-        "id": 185,
-        "productName": "Tapa ciega chica rectangular",
-        "price": 150
-    },
-    {
-        "id": 186,
-        "productName": "Tapa ciega grande cuadrada 10x10",
-        "price": 250
-    },
-    {
-        "id": 187,
-        "productName": "Tapa ciega grande octogonal",
-        "price": 250
-    },
-    {
-        "id": 188,
-        "productName": "Tapa de inspección para jabalina PVC 10x10",
-        "price": 600
-    },
-    {
-        "id": 189,
-        "productName": "Térmica bipolar 10 a 32A (CHINT)",
-        "price": 7800
-    },
-    {
-        "id": 190,
-        "productName": "Térmica bipolar 10 a 32A (SICA)",
-        "price": 6800
-    },
-    {
-        "id": 191,
-        "productName": "Térmica bipolar 16 A / 20 A (SIEMENS / SCHNEIDER)",
-        "price": 23000
-    },
-    {
-        "id": 192,
-        "productName": "Térmica bipolar 40A (CHINT)",
-        "price": 9100
-    },
-    {
-        "id": 193,
-        "productName": "Térmica Bipolar 40A (Interelec)",
-        "price": 7800
-    },
-    {
-        "id": 194,
-        "productName": "Térmica bipolar 40A (SICA)",
-        "price": 8000
-    },
-    {
-        "id": 195,
-        "productName": "Térmicas unipolares 16 A / 20 A / 25 A / 32 A (JELUZ / CHINT)",
-        "price": 4400
-    },
-    {
-        "id": 196,
-        "productName": "Térmicas unipolares 40A (JELUZ / CHINT)",
-        "price": 4700
-    },
-    {
-        "id": 197,
-        "productName": "Timbre simple exterior",
-        "price": 1200
-    },
-    {
-        "id": 198,
-        "productName": "Timbre zumbador 10x10 de embutir",
-        "price": 22000
-    },
-    {
-        "id": 199,
-        "productName": "Timbre zumbador 10x5 de exterior",
-        "price": 17250
-    },
-    {
-        "id": 200,
-        "productName": "Tira LED de 5 metros - OSR 5050MM",
-        "price": 9700
-    },
-    {
-        "id": 201,
-        "productName": "Toma doble exterior (MIG)",
-        "price": 3200
-    },
-    {
-        "id": 202,
-        "productName": "Toma doble exterior 10A",
-        "price": 1800
-    },
-    {
-        "id": 203,
-        "productName": "Toma exterior de 20A",
-        "price": 2106
-    },
-    {
-        "id": 204,
-        "productName": "Toma exterior trifásico 380v 32A",
-        "price": 7000
-    },
-    {
-        "id": 205,
-        "productName": "Toma simple exterior 10A (ciocca)",
-        "price": 1200
-    },
-    {
-        "id": 206,
-        "productName": "Tornillos dorados (kevin)",
-        "price": 20
-    },
-    {
-        "id": 207,
-        "productName": "Tornillos Drywall 8x2 Fosfatizado Negro (para tarugos/tacos del 8)",
-        "price": 60
-    },
-    {
-        "id": 208,
-        "productName": "Tornillos negros (kevin)",
-        "price": 20
-    },
-    {
-        "id": 209,
-        "productName": "Tortuga oval LED 12w (Fría/Cálida) (MACROLED)",
-        "price": 12151.1
-    },
-    {
-        "id": 210,
-        "productName": "Tortuga PVC ovalada (con portalámpara)",
-        "price": 5000
-    },
-    {
-        "id": 211,
-        "productName": "Tortuga vidrio redonda (color blanco) (con portalámpara)",
-        "price": 8827
-    },
-    {
-        "id": 212,
-        "productName": "Transormador Yali 220V a 12V",
-        "price": 0
-    },
-    {
-        "id": 213,
-        "productName": "Transormador Yali 220V a 24V",
-        "price": 0
-    },
-    {
-        "id": 214,
-        "productName": "Transormador Yali 380V a 24V",
-        "price": 0
-    },
-    {
-        "id": 215,
-        "productName": "Tubo LED 16W (Phillips) (Fría/Cálida) (120cm)",
-        "price": 3300
-    },
-    {
-        "id": 216,
-        "productName": "Tubo LED 18W (Macroled) (Fría/Cálida) (120cm)",
-        "price": 2853.9
-    },
-    {
-        "id": 217,
-        "productName": "Tubo LED 9W (Macroled) (Fría/Cálida) (60cm)",
-        "price": 1972.35
-    },
-    {
-        "id": 218,
-        "productName": "Unión/conector de chapa 1\" (unidad)",
-        "price": 500
-    },
-    {
-        "id": 219,
-        "productName": "Unión/conector de chapa 3/4\" (unidad)",
-        "price": 250
-    },
-    {
-        "id": 220,
-        "productName": "Unión/conector de chapa 7/8\" (unidad)",
-        "price": 400
-    },
-    {
-        "id": 221,
-        "productName": "Unión/conector PVC 20 mm",
-        "price": 200
-    },
-    {
-        "id": 222,
-        "productName": "Unión/conector PVC 22 mm",
-        "price": 300
-    },
-    {
-        "id": 223,
-        "productName": "Tapa ciega para Caja Mignon",
-        "price": 180
-    },
-    {
-        "id": 224,
-        "productName": "Capacitores (1,5uf) 450v (C. Alterna)",
-        "price": 3200
-    },
-    {
-        "id": 225,
-        "productName": "Capacitores (2,5uf) 450v (C. Alterna)",
-        "price": 3300
-    },
-    {
-        "id": 226,
-        "productName": "Capacitores (3uf) (4uf) 450v (C. Alterna)",
-        "price": 3600
-    },
-    {
-        "id": 227,
-        "productName": "Juego/kit de destornilladores/herramientas de precisión (desarmado celulares)",
-        "price": 11300
-    },
-    {
-        "id": 228,
-        "productName": "Foco / Lámpara LED 5w (KIAR)",
-        "price": 1000
-    },
-    {
-        "id": 229,
-        "productName": "Ficha bipolar - 2 patas redondas (macho y hembra)",
-        "price": 600
-    },
-    {
-        "id": 230,
-        "productName": "Regulador ventilador - ANTHAY",
-        "price": 15600
-    },
-    {
-        "id": 231,
-        "productName": "Zapatilla sin cable (chica)",
-        "price": 900
-    },
-    {
-        "id": 232,
-        "productName": "Multímetro/Tester digital básico - (BAROVO)",
-        "price": 6500
-    },
-    {
-        "id": 233,
-        "productName": "Adaptador ficha americana",
-        "price": 600
-    },
-    {
-        "id": 234,
-        "productName": "Asiento/Tapa para inodoro",
-        "price": 7200
-    },
-    {
-        "id": 235,
-        "productName": "Timbre inalámbrico (LUXOM)",
-        "price": 7900
-    },
-    {
-        "id": 236,
-        "productName": "Lámpara LED flash 0,15w (Interelec) Filamento Color",
-        "price": 2800
-    },
-    {
-        "id": 237,
-        "productName": "Ficha macho lateral 10A",
-        "price": 600
-    },
-    {
-        "id": 238,
-        "productName": "Lámpara LED 14w / 15w (MACROLED/LEDVANCE) (Fría/Cálida)",
-        "price": 1500
-    },
-    {
-        "id": 239,
-        "productName": "Lámpara LED galponera 19w (MACROLED) (Fría/Cálida)",
-        "price": 3180
-    },
-    {
-        "id": 240,
-        "productName": "Lámpara LED 1,8w (E14) (MACROLED) (Cálida/Fría)",
-        "price": 2400
-    },
-    {
-        "id": 241,
-        "productName": "Lubricante HD440",
-        "price": 3900
-    },
-    {
-        "id": 242,
-        "productName": "Canilla plástica para lavatorio",
-        "price": 2700
-    },
-    {
-        "id": 243,
-        "productName": "Lámpara LED 12w - (TREFI)",
-        "price": 1400
-    },
-    {
-        "id": 244,
-        "productName": "Caja para medidor monofásica lisa",
-        "price": 15000
-    },
-    {
-        "id": 245,
-        "productName": "Lámpara LED (G9) 4,5w (MACROLED)",
-        "price": 2310.84
-    },
-    {
-        "id": 246,
-        "productName": "Tarugos 6 / Taco Fischer 6",
-        "price": 15
-    },
-    {
-        "id": 247,
-        "productName": "Tarugos 8 / Taco Fischer 8",
-        "price": 20
-    },
-    {
-        "id": 248,
-        "productName": "Antiparra / gafas de seguridad",
-        "price": 2500
-    },
-    {
-        "id": 249,
-        "productName": "Caño pilar 1 - 1/4\"",
-        "price": 31153.8
-    },
-    {
-        "id": 250,
-        "productName": "Caño rígido 20 mm",
-        "price": 2102.1
-    },
-    {
-        "id": 251,
-        "productName": "Caño rígido 22 mm",
-        "price": 2815.8
-    },
-    {
-        "id": 252,
-        "productName": "Cápsula toma 10A",
-        "price": 3100
-    },
-    {
-        "id": 253,
-        "productName": "Cinta aisladora de 10 metros (LUXOM)",
-        "price": 700
-    },
-    {
-        "id": 254,
-        "productName": "Cinta aisladora de 10 metros (TACSA | VINI-TAPE)",
-        "price": 1000
-    },
-    {
-        "id": 255,
-        "productName": "Cinta aisladora de 20 metros (TACSA - VINI - TAPE)",
-        "price": 1600
-    },
-    {
-        "id": 256,
-        "productName": "Cinta aisladora de 5 metros (TACSA - VINI TAPE - INTECK)",
-        "price": 600
-    },
-    {
-        "id": 257,
-        "productName": "Cinta teflón 1/2\" (10 metros)",
-        "price": 400
-    },
-    {
-        "id": 258,
-        "productName": "Codo pipeta pilar (1 - 1/2\") (1 - 1/4\")",
-        "price": 1251
-    },
-    {
-        "id": 259,
-        "productName": "Balde de albañil",
-        "price": 2800
-    },
-    {
-        "id": 260,
-        "productName": "Conectores RG6 (TV)",
-        "price": 300
-    },
-    {
-        "id": 261,
-        "productName": "Contactor 38A",
-        "price": 0
-    },
-    {
-        "id": 262,
-        "productName": "Contactor 40A",
-        "price": 0
-    },
-    {
-        "id": 263,
-        "productName": "Contactor 50A",
-        "price": 0
-    },
-    {
-        "id": 264,
-        "productName": "cutter Duroll",
-        "price": 6500
-    },
-    {
-        "id": 265,
-        "productName": "cutter kitana",
-        "price": 7500
-    },
-    {
-        "id": 266,
-        "productName": "Delantal Jean",
-        "price": 0
-    },
-    {
-        "id": 267,
-        "productName": "Destornillador Interelec INT-762",
-        "price": 3900
-    },
-    {
-        "id": 268,
-        "productName": "Destornillador Interelec INT-764",
-        "price": 5100
-    },
-    {
-        "id": 269,
-        "productName": "Destornillador Interelec INT-765",
-        "price": 2940
-    },
-    {
-        "id": 270,
-        "productName": "",
-        "price": 3577.0939
-    },
-    {
-        "id": 271,
-        "productName": "Disco de corte 115mm (DOBLE A|BOSCH)",
-        "price": 700
-    },
-    {
-        "id": 272,
-        "productName": "Disco de corte 180 mm (DOBLE A)",
-        "price": 1544.4
-    },
-    {
-        "id": 273,
-        "productName": "Disco de corte de pared (ENERGY) (segmentado)",
-        "price": 5100
-    },
-    {
-        "id": 274,
-        "productName": "Disco de desbaste 115mm (DOBLE A)",
-        "price": 1300
-    },
-    {
-        "id": 275,
-        "productName": "Disco flap 115mm (HAMILTON / DOBLE A)",
-        "price": 1700
-    },
-    {
-        "id": 276,
-        "productName": "Disco flap 180mm (HAMILTON / DOBLE A)",
-        "price": 2900
-    },
-    {
-        "id": 277,
-        "productName": "Disco Lija Velcro grano",
-        "price": 500
-    },
-    {
-        "id": 278,
-        "productName": "Disyuntor diferencial bipolar 40A (Sica)",
-        "price": 22500
-    },
-    {
-        "id": 279,
-        "productName": "Estaño para soldar / soldadura",
-        "price": 850
-    },
-    {
-        "id": 280,
-        "productName": "Grampa Stark 20mm",
-        "price": 150
-    },
-    {
-        "id": 281,
-        "productName": "Zócalo cerámico Gu10 (dicróica)",
-        "price": 750
-    },
-    {
-        "id": 282,
-        "productName": "Zocalo con rotor G13 (para tubos)",
-        "price": 980
-    },
-    {
-        "id": 283,
-        "productName": "Zócalo flexible (para tubos LED)",
-        "price": 807.84
-    }
+  {
+    "id": 1010,
+    "productName": "Pegamento instantáneo líquido 3Grs (LUXOM)",
+    "price": 900
+  },
+  {
+    "id": 1000,
+    "productName": "Disco de corte 115mm (LUSQTOFF)",
+    "price": 600
+  },
+  {
+    "id": 2,
+    "productName": "Flotante Automático para Tanque - Metaplast",
+    "price": 8505
+  },
+  {
+    "id": 3,
+    "productName": "Punto simple | Toma 10a simple (CHATO) (Jeluz exterior)",
+    "price": 1300
+  },
+  {
+    "id": 4,
+    "productName": "Punto y toma | Toma doble | doble punto (CHATO) (Jeluz exterior)",
+    "price": 2400
+  },
+  {
+    "id": 5,
+    "productName": "Adaptador común 3 patas a 2 patas",
+    "price": 500
+  },
+  {
+    "id": 6,
+    "productName": "Adaptador triple | Adaptador doble",
+    "price": 1600
+  },
+  {
+    "id": 7,
+    "productName": "Alicate corte diagonal 180mm (7\") mango ergonómico (Jadever)",
+    "price": 7800
+  },
+  {
+    "id": 8,
+    "productName": "Batería - Pila 9v (Vinnic)",
+    "price": 2900
+  },
+  {
+    "id": 9,
+    "productName": "Cable Alimentación (Tipo 8)",
+    "price": 2800
+  },
+  {
+    "id": 10,
+    "productName": "Cable Alimentación (Tipo trébol)",
+    "price": 3900
+  },
+  {
+    "id": 11,
+    "productName": "Cable alimentación calefón eléctrico (1,9 metros)",
+    "price": 4900
+  },
+  {
+    "id": 12,
+    "productName": "Cable alimentación calefón eléctrico 2 metros (Indelplas)",
+    "price": 5700
+  },
+  {
+    "id": 13,
+    "productName": "Cable canal 14x7",
+    "price": 1268.2
+  },
+  {
+    "id": 14,
+    "productName": "Cable canal 18x21",
+    "price": 2592.8
+  },
+  {
+    "id": 15,
+    "productName": "Cable canal 20x10",
+    "price": 1591.2
+  },
+  {
+    "id": 16,
+    "productName": "Cable textil para plancha (bipolar)",
+    "price": 2000
+  },
+  {
+    "id": 17,
+    "productName": "Caja 10x10 embutir (CHAPA)",
+    "price": 800
+  },
+  {
+    "id": 18,
+    "productName": "Caja 10x10 embutir (PVC)",
+    "price": 522
+  },
+  {
+    "id": 19,
+    "productName": "Caja cable canal para bastidor / portabastidor",
+    "price": 600
+  },
+  {
+    "id": 20,
+    "productName": "Caja de paso estanca 115x115x50 | 115x115x60",
+    "price": 1900
+  },
+  {
+    "id": 21,
+    "productName": "Caja de paso estanca 115x115x80",
+    "price": 2300
+  },
+  {
+    "id": 22,
+    "productName": "Caja de paso estanca 90x90x55",
+    "price": 1618.5
+  },
+  {
+    "id": 23,
+    "productName": "Caja octogonal embutir (PVC)",
+    "price": 300
+  },
+  {
+    "id": 24,
+    "productName": "Caja rectangular embutir (PVC)",
+    "price": 300
+  },
+  {
+    "id": 25,
+    "productName": "Caja mignon embutir (chapa)",
+    "price": 400
+  },
+  {
+    "id": 26,
+    "productName": "Caja octogonal embutir (chapa)",
+    "price": 400
+  },
+  {
+    "id": 27,
+    "productName": "Caja para térmicas 12 bocas (embutir)",
+    "price": 9362.6
+  },
+  {
+    "id": 28,
+    "productName": "Caja para térmicas 12 bocas (exterior)",
+    "price": 4764.5
+  },
+  {
+    "id": 29,
+    "productName": "Caja para térmicas 2 bocas (exterior)",
+    "price": 1500
+  },
+  {
+    "id": 30,
+    "productName": "Caja para térmicas 4 bocas (exterior)",
+    "price": 1900
+  },
+  {
+    "id": 31,
+    "productName": "Caja para térmicas 4 bocas (pilar)",
+    "price": 5200
+  },
+  {
+    "id": 32,
+    "productName": "Caja para térmicas 8 bocas (embutir)",
+    "price": 7052.5
+  },
+  {
+    "id": 33,
+    "productName": "Caja para térmicas 8 bocas (exterior)",
+    "price": 3685.5
+  },
+  {
+    "id": 34,
+    "productName": "Caja rectangular embutir (chapa)",
+    "price": 400
+  },
+  {
+    "id": 35,
+    "productName": "Calefón calentador eléctrico DILUVIO (20 litros) (resistencia de acero)",
+    "price": 12900
+  },
+  {
+    "id": 36,
+    "productName": "Calorito Ebulllidor - Calentador - Hervidor",
+    "price": 2800
+  },
+  {
+    "id": 37,
+    "productName": "Candado 30mm 3 llaves hierro (JDPD1450) (Jadever)",
+    "price": 5348.2
+  },
+  {
+    "id": 38,
+    "productName": "Candado 50mm 3 llaves hierro (JDPD1450) (Jadever)",
+    "price": 10468.9
+  },
+  {
+    "id": 39,
+    "productName": "Canilla doble PVC (conexión lavarropa)",
+    "price": 1500
+  },
+  {
+    "id": 40,
+    "productName": "Canilla plástica PVC 1/2\"",
+    "price": 900
+  },
+  {
+    "id": 41,
+    "productName": "Canilla válvula esférica 3/4\" (JDVB3812) (Jadever)",
+    "price": 4800
+  },
+  {
+    "id": 42,
+    "productName": "Cinta Aisladora de Tela Automóviles",
+    "price": 4900
+  },
+  {
+    "id": 43,
+    "productName": "Cinta métrica 3 metros (EVEL)",
+    "price": 6928.2
+  },
+  {
+    "id": 44,
+    "productName": "Cinta pasacable 10 metros (ACERO)",
+    "price": 5131.88
+  },
+  {
+    "id": 45,
+    "productName": "Cinta pasacable 15 metros (ACERO)",
+    "price": 6900
+  },
+  {
+    "id": 46,
+    "productName": "Cinta pasacable 15 metros (PVC)",
+    "price": 2900
+  },
+  {
+    "id": 47,
+    "productName": "Conector ficha macho CCTV",
+    "price": 400
+  },
+  {
+    "id": 48,
+    "productName": "Decapante para soldadura (DELTA)",
+    "price": 1900
+  },
+  {
+    "id": 49,
+    "productName": "Desoldador succionador estaño (Kushiro)",
+    "price": 4422
+  },
+  {
+    "id": 50,
+    "productName": "Destornillador Buscapolo 250v 3x140mm (Jadever)",
+    "price": 1500
+  },
+  {
+    "id": 51,
+    "productName": "Destornilladores Chicos (plano/phillips) (Jadever)",
+    "price": 1700
+  },
+  {
+    "id": 52,
+    "productName": "Destornilladores Grandes (plano/phillips) (Jadever)",
+    "price": 2600
+  },
+  {
+    "id": 53,
+    "productName": "Destornilladores Medianos (plano/phillips) (Jadever)",
+    "price": 2100
+  },
+  {
+    "id": 54,
+    "productName": "Disco flap 115mm (LUXOM)",
+    "price": 1000
+  },
+  {
+    "id": 55,
+    "productName": "Driver para panel LED 12w (KING)",
+    "price": 1447.5
+  },
+  {
+    "id": 56,
+    "productName": "Driver para panel LED 12w (Macroled)",
+    "price": 4207.95
+  },
+  {
+    "id": 57,
+    "productName": "Driver para panel LED 18w (KING)",
+    "price": 1560
+  },
+  {
+    "id": 58,
+    "productName": "Driver para panel LED 18w (Macroled)",
+    "price": 5042.25
+  },
+  {
+    "id": 59,
+    "productName": "Driver para panel LED 24w (Macroled)",
+    "price": 5478.3
+  },
+  {
+    "id": 60,
+    "productName": "Electrodo 2,5mm (6013) P A - (Precio unidad) 18grs aprox",
+    "price": 113.4
+  },
+  {
+    "id": 61,
+    "productName": "Ficha hembra calefón (negra)",
+    "price": 700
+  },
+  {
+    "id": 62,
+    "productName": "Ficha hembra 10A (simil KALOP | simil RICHI)",
+    "price": 900
+  },
+  {
+    "id": 63,
+    "productName": "Ficha hembra 20A (20 ampéres) (ciocca)",
+    "price": 1300
+  },
+  {
+    "id": 64,
+    "productName": "Ficha hembra calefón (indelplas)",
+    "price": 700
+  },
+  {
+    "id": 65,
+    "productName": "Ficha macho / hembra 20A (20 ampéres) (MIG)",
+    "price": 2300
+  },
+  {
+    "id": 66,
+    "productName": "Ficha macho 10A (línea IH3)",
+    "price": 1100
+  },
+  {
+    "id": 67,
+    "productName": "Ficha macho 10A (simil KALOP | simil RICHI)",
+    "price": 900
+  },
+  {
+    "id": 68,
+    "productName": "Ficha macho 20A (20 ampéres) (ciocca)",
+    "price": 1300
+  },
+  {
+    "id": 69,
+    "productName": "Ficha macho trifásica 380v 32a",
+    "price": 7000
+  },
+  {
+    "id": 70,
+    "productName": "Ficha macho velador - (blanco/negro)",
+    "price": 500
+  },
+  {
+    "id": 71,
+    "productName": "Ficha/Interruptor velador (blanco/negro)",
+    "price": 500
+  },
+  {
+    "id": 72,
+    "productName": "Portalámpara Florón curvo/receptáculo",
+    "price": 800
+  },
+  {
+    "id": 73,
+    "productName": "Portalámpara Florón grande recto",
+    "price": 1100
+  },
+  {
+    "id": 74,
+    "productName": "Flux en GEL - Jeringa 10cc - DELTA",
+    "price": 3000
+  },
+  {
+    "id": 75,
+    "productName": "Lámpara incandecescente de colores 15W",
+    "price": 1100
+  },
+  {
+    "id": 76,
+    "productName": "Fotocélula 1200w - LUXOM",
+    "price": 5900
+  },
+  {
+    "id": 77,
+    "productName": "Fotocélula 1200w 6A - MACROLED",
+    "price": 7410
+  },
+  {
+    "id": 78,
+    "productName": "Fratacho / Filtro 20cm - Goma Espuma",
+    "price": 900
+  },
+  {
+    "id": 79,
+    "productName": "Fuente alimentación 12v 1A",
+    "price": 6100
+  },
+  {
+    "id": 80,
+    "productName": "Fuente alimentación 12v 2A",
+    "price": 6900
+  },
+  {
+    "id": 81,
+    "productName": "Grampas / sujeta cables cable coaxil RG6",
+    "price": 50
+  },
+  {
+    "id": 82,
+    "productName": "Guantes de alta temperatura",
+    "price": 30000
+  },
+  {
+    "id": 83,
+    "productName": "Guantes de cuero vaqueta",
+    "price": 4500
+  },
+  {
+    "id": 84,
+    "productName": "Guantes moteados albañil",
+    "price": 1200
+  },
+  {
+    "id": 85,
+    "productName": "Guirnaldas de luces armadas - (10 metros)",
+    "price": 12900
+  },
+  {
+    "id": 86,
+    "productName": "Inflador 3 picos cilindro de acero (JDPP1C01) (Jadever)",
+    "price": 12972
+  },
+  {
+    "id": 87,
+    "productName": "Jabalina 1/2\" con tomacable",
+    "price": 18000
+  },
+  {
+    "id": 88,
+    "productName": "Juego Kit 4 destornilladores (JDSS2204) (Jadever)",
+    "price": 6439.45
+  },
+  {
+    "id": 89,
+    "productName": "Juego Kit 6 destornilladores (Jadever)",
+    "price": 11702.6
+  },
+  {
+    "id": 90,
+    "productName": "Kit puntas destornillador 12 piezas (JDSS1612) (Jadever)",
+    "price": 6500
+  },
+  {
+    "id": 91,
+    "productName": "Kit repuestos calefón flor ducha",
+    "price": 1500
+  },
+  {
+    "id": 92,
+    "productName": "Lámpara de señalización blanco 5w (12v) (Halógena) (Fría) (Auto)",
+    "price": 400
+  },
+  {
+    "id": 93,
+    "productName": "Lámpara Dicroica LED 5w (MACROLED) (Fría/Cálida)",
+    "price": 1300
+  },
+  {
+    "id": 94,
+    "productName": "Lámpara Dicroica LED 7w (MACROLED) (Fría/Cálida)",
+    "price": 1700
+  },
+  {
+    "id": 95,
+    "productName": "Lámpara FILAMENTO 3w (AMBAR) (E27) (MACROLED)",
+    "price": 4300
+  },
+  {
+    "id": 96,
+    "productName": "Lámpara FILAMENTO 4w (Cálida) (E14) (MACROLED)",
+    "price": 2400
+  },
+  {
+    "id": 97,
+    "productName": "Lámpara FILAMENTO 5w (AMBAR) (E27) (MACROLED)",
+    "price": 6300
+  },
+  {
+    "id": 98,
+    "productName": "Lámpara incandescente 15w (LUXOM / FRANCE) - Gota Decorativa",
+    "price": 850
+  },
+  {
+    "id": 99,
+    "productName": "Lámpara LED 14w / 15w (Candela)",
+    "price": 1300
+  },
+  {
+    "id": 100,
+    "productName": "Lámpara LED 14w / 15w (KING)",
+    "price": 1400
+  },
+  {
+    "id": 101,
+    "productName": "Lámpara LED 5w (Sica)",
+    "price": 800
+  },
+  {
+    "id": 102,
+    "productName": "Lámpara LED 6,5w / 7w (KING)",
+    "price": 800
+  },
+  {
+    "id": 103,
+    "productName": "Lámpara LED 6,5w / 7w (MACROLED) (Fría/Cálida)",
+    "price": 900
+  },
+  {
+    "id": 104,
+    "productName": "Lámpara LED 60w (MACROLED) (Fría/Cálida) (E27)",
+    "price": 17399.2
+  },
+  {
+    "id": 105,
+    "productName": "Lámpara LED 9,5w / 10w (KING)",
+    "price": 900
+  },
+  {
+    "id": 106,
+    "productName": "Lámpara LED 9W (Sol de noche)",
+    "price": 1000
+  },
+  {
+    "id": 107,
+    "productName": "Lámpara LED 9w / 10w (MACROLED)",
+    "price": 1000
+  },
+  {
+    "id": 108,
+    "productName": "Lámpara LED bulbón 19w / 20w (KING)",
+    "price": 2500
+  },
+  {
+    "id": 109,
+    "productName": "Lámpara LED bulbón 28w / 30w (KING)",
+    "price": 4100
+  },
+  {
+    "id": 110,
+    "productName": "Lámpara LED bulbón 28w / 30w (MACROLED)",
+    "price": 4700
+  },
+  {
+    "id": 111,
+    "productName": "Lámpara LED bulbón 38w / 40w (MACROLED)",
+    "price": 7104.24
+  },
+  {
+    "id": 112,
+    "productName": "Lámpara LED bulbón 48w / 50w (MACROLED)",
+    "price": 10281.7
+  },
+  {
+    "id": 113,
+    "productName": "Lámpara LED dicróica 5w (KING) (Fría/Cálida)",
+    "price": 1100
+  },
+  {
+    "id": 114,
+    "productName": "Lámpara LED dicróica 7w (KING) (Fría/Cálida)",
+    "price": 1200
+  },
+  {
+    "id": 115,
+    "productName": "Lámpara LED T10 Siliconado Largo (12v) (Luz posición) (Fría) (Auto)",
+    "price": 700
+  },
+  {
+    "id": 116,
+    "productName": "Lámpara perfume 15W (France) E14 (para lámparas de sal, heladeras, etc)",
+    "price": 900
+  },
+  {
+    "id": 117,
+    "productName": "Lápiz Soldador de estaño 40W (Kushiro)",
+    "price": 9200
+  },
+  {
+    "id": 118,
+    "productName": "Linternita 9 LEDs",
+    "price": 2200
+  },
+  {
+    "id": 119,
+    "productName": "Liston para tubo LED (120cm)",
+    "price": 4124.9
+  },
+  {
+    "id": 120,
+    "productName": "Liston para tubo LED (60cm)",
+    "price": 3019.55
+  },
+  {
+    "id": 121,
+    "productName": "Llave mandril taladro 13mm",
+    "price": 2700
+  },
+  {
+    "id": 122,
+    "productName": "Machete acero al carbono 10\" (Jadever)",
+    "price": 6939
+  },
+  {
+    "id": 123,
+    "productName": "Machete acero al carbono 20\" (Jadever)",
+    "price": 8501.94
+  },
+  {
+    "id": 124,
+    "productName": "Martillo 300g (JDHM1303) (Jadever)",
+    "price": 8500
+  },
+  {
+    "id": 125,
+    "productName": "Panel flat LED embutir 18w (Cuadrado) (MDL) (Fría/Cálida)",
+    "price": 5900
+  },
+  {
+    "id": 126,
+    "productName": "Panel flat LED embutir 24w (Cuadrado) (MDL) (Fría/Cálida)",
+    "price": 10862.6
+  },
+  {
+    "id": 127,
+    "productName": "Panel plafón LED 12w (Circular) (KING) (Fría/Cálida)",
+    "price": 5510.7
+  },
+  {
+    "id": 128,
+    "productName": "Panel plafón LED 18w (Circular) (KING) (Fría/Cálida)",
+    "price": 7221.9
+  },
+  {
+    "id": 129,
+    "productName": "Panel plafón LED 18w (Cuadrado) (MACROLED) (Fría/Cálida)",
+    "price": 12807.6
+  },
+  {
+    "id": 130,
+    "productName": "Panel plafón LED 24w (Circular) (KING) (Fría/Cálida)",
+    "price": 11463.4
+  },
+  {
+    "id": 131,
+    "productName": "Panel plafón LED 6w (Circular) (KING) (Fría/Cálida)",
+    "price": 3828.6
+  },
+  {
+    "id": 132,
+    "productName": "Panel plafón LED 6w (Circular) (MACROLED) (Fría/Cálida)",
+    "price": 5512
+  },
+  {
+    "id": 133,
+    "productName": "Pasta térmica para CPU Hy510 - PC/Computadora/Microprocesador",
+    "price": 1100
+  },
+  {
+    "id": 134,
+    "productName": "Pegamento ECCOLE",
+    "price": 4700
+  },
+  {
+    "id": 135,
+    "productName": "Pegamento FASTIX",
+    "price": 4800
+  },
+  {
+    "id": 136,
+    "productName": "Pegamento POXIRAN",
+    "price": 3900
+  },
+  {
+    "id": 137,
+    "productName": "Pegamento UNIPOX",
+    "price": 2000
+  },
+  {
+    "id": 138,
+    "productName": "Pila 23A 12v (Vinnic)",
+    "price": 1100
+  },
+  {
+    "id": 139,
+    "productName": "Pila Botón CR2032 Litio (Energizer)",
+    "price": 1100
+  },
+  {
+    "id": 140,
+    "productName": "Pila Botón CR2032 Litio (Vinnic)",
+    "price": 700
+  },
+  {
+    "id": 141,
+    "productName": "Pilas AA | AAA (Energizer)",
+    "price": 750
+  },
+  {
+    "id": 142,
+    "productName": "Pincel 1 - 1/2\" - Condor",
+    "price": 1800
+  },
+  {
+    "id": 143,
+    "productName": "Pincel 1\" - Condor",
+    "price": 1500
+  },
+  {
+    "id": 144,
+    "productName": "Pincel Número 15 - ROSARPIN",
+    "price": 3200
+  },
+  {
+    "id": 145,
+    "productName": "Pincel Número 20 - ROSARPIN",
+    "price": 3500
+  },
+  {
+    "id": 146,
+    "productName": "Pinceles 50mm (Jadever)",
+    "price": 1600
+  },
+  {
+    "id": 147,
+    "productName": "Pinceles 75mm (Jadever)",
+    "price": 2900
+  },
+  {
+    "id": 148,
+    "productName": "Pinza alicate 6\" Mango Aislado Rojo - (INTERELEC)",
+    "price": 19000
+  },
+  {
+    "id": 149,
+    "productName": "Pinza Alicate Corte Oblicuo 7 - 1/2\" - (INTERELEC)",
+    "price": 11900
+  },
+  {
+    "id": 150,
+    "productName": "Pinza de punta larga 200mm (8\") mango ergonómico (Jadever)",
+    "price": 7800
+  },
+  {
+    "id": 151,
+    "productName": "Pinza de punta y corte (Truper)",
+    "price": 18900
+  },
+  {
+    "id": 152,
+    "productName": "Pinza pelacables 215mm (8,5\") (Jadever)",
+    "price": 11310
+  },
+  {
+    "id": 153,
+    "productName": "Pinza universal 180mm (7\") mango ergonómico (Jadever)",
+    "price": 7800
+  },
+  {
+    "id": 154,
+    "productName": "Pinza universal común 6\" (color rojo)",
+    "price": 12900
+  },
+  {
+    "id": 155,
+    "productName": "Plafón LED Cuadrado 18W",
+    "price": 6500
+  },
+  {
+    "id": 156,
+    "productName": "Portalámpara colgante (blanco / negro)",
+    "price": 6000
+  },
+  {
+    "id": 157,
+    "productName": "Portalámpara E27 enchufable con interruptor",
+    "price": 1500
+  },
+  {
+    "id": 158,
+    "productName": "Portalámpara Mignon 3 piezas (E14)",
+    "price": 800
+  },
+  {
+    "id": 159,
+    "productName": "Portalámparas 3 partes",
+    "price": 700
+  },
+  {
+    "id": 160,
+    "productName": "Portalámparas cerámico",
+    "price": 1100
+  },
+  {
+    "id": 161,
+    "productName": "Precintos 100 x 2,5mm (Chico)",
+    "price": 15
+  },
+  {
+    "id": 162,
+    "productName": "Precintos 150 x 3,6mm (Mediano)",
+    "price": 35
+  },
+  {
+    "id": 163,
+    "productName": "Precintos 250 x 4,8mm (Grande)",
+    "price": 45
+  },
+  {
+    "id": 164,
+    "productName": "Prolongador/Zapatilla eléctrica con interruptor (1,5 metros) (INTECK)",
+    "price": 11378.9
+  },
+  {
+    "id": 165,
+    "productName": "Prolongador/Zapatilla eléctrica con interruptor (1,5 metros) (SICA)",
+    "price": 9200
+  },
+  {
+    "id": 166,
+    "productName": "Protector de tensión 10a BAW",
+    "price": 15000
+  },
+  {
+    "id": 167,
+    "productName": "Protector/tapa para tomacorriente - niños - bebe",
+    "price": 300
+  },
+  {
+    "id": 168,
+    "productName": "Protectores auditivos",
+    "price": 1500
+  },
+  {
+    "id": 169,
+    "productName": "Pulsador timbre simple (ciocca)",
+    "price": 1500
+  },
+  {
+    "id": 170,
+    "productName": "Punto simple exterior (ciocca)",
+    "price": 1200
+  },
+  {
+    "id": 171,
+    "productName": "Punto y toma exterior 10A (ciocca)",
+    "price": 1800
+  },
+  {
+    "id": 172,
+    "productName": "Raqueta mata moscas y mosquitos USB",
+    "price": 8900
+  },
+  {
+    "id": 173,
+    "productName": "Reflector LED 10 W (Luz Fría)(Candela / KING)",
+    "price": 3800
+  },
+  {
+    "id": 174,
+    "productName": "Reflector LED 20 W (Luz Fría) (Candela / KING)",
+    "price": 5787.6
+  },
+  {
+    "id": 175,
+    "productName": "Reflector LED 30 W (Luz Fría) (Candela / KING)",
+    "price": 6700
+  },
+  {
+    "id": 176,
+    "productName": "Reflector LED 30w (Cuadrado) (MACROLED) (Fría/Cálida)",
+    "price": 16250
+  },
+  {
+    "id": 177,
+    "productName": "Reflector LED 50 W (Luz Fría) (Candela / KING)",
+    "price": 9500
+  },
+  {
+    "id": 178,
+    "productName": "Resistencia ACERO calefón",
+    "price": 6000
+  },
+  {
+    "id": 179,
+    "productName": "Resistencia BRONCE calefón",
+    "price": 6709.5
+  },
+  {
+    "id": 180,
+    "productName": "Serie 100 luces navidad/navideñas",
+    "price": 4300
+  },
+  {
+    "id": 181,
+    "productName": "Soporte universal celular para ventilación auto (gps)",
+    "price": 950
+  },
+  {
+    "id": 182,
+    "productName": "Spot Dicroica (blanco / negro)",
+    "price": 1236.6
+  },
+  {
+    "id": 183,
+    "productName": "Spot tulipa simple",
+    "price": 6700
+  },
+  {
+    "id": 184,
+    "productName": "Tapa ciega chica octogonal",
+    "price": 150
+  },
+  {
+    "id": 185,
+    "productName": "Tapa ciega chica rectangular",
+    "price": 150
+  },
+  {
+    "id": 186,
+    "productName": "Tapa ciega grande cuadrada 10x10",
+    "price": 250
+  },
+  {
+    "id": 187,
+    "productName": "Tapa ciega grande octogonal",
+    "price": 250
+  },
+  {
+    "id": 188,
+    "productName": "Tapa de inspección para jabalina PVC 10x10",
+    "price": 600
+  },
+  {
+    "id": 189,
+    "productName": "Térmica bipolar 10 a 32A (CHINT)",
+    "price": 7800
+  },
+  {
+    "id": 190,
+    "productName": "Térmica bipolar 10 a 32A (SICA)",
+    "price": 6800
+  },
+  {
+    "id": 191,
+    "productName": "Térmica bipolar 16 A / 20 A (SIEMENS / SCHNEIDER)",
+    "price": 23000
+  },
+  {
+    "id": 192,
+    "productName": "Térmica bipolar 40A (CHINT)",
+    "price": 9100
+  },
+  {
+    "id": 193,
+    "productName": "Térmica Bipolar 40A (Interelec)",
+    "price": 7800
+  },
+  {
+    "id": 194,
+    "productName": "Térmica bipolar 40A (SICA)",
+    "price": 8000
+  },
+  {
+    "id": 195,
+    "productName": "Térmicas unipolares 16 A / 20 A / 25 A / 32 A (JELUZ / CHINT)",
+    "price": 4400
+  },
+  {
+    "id": 196,
+    "productName": "Térmicas unipolares 40A (JELUZ / CHINT)",
+    "price": 4700
+  },
+  {
+    "id": 197,
+    "productName": "Timbre simple exterior",
+    "price": 1200
+  },
+  {
+    "id": 198,
+    "productName": "Timbre zumbador 10x10 de embutir",
+    "price": 22000
+  },
+  {
+    "id": 199,
+    "productName": "Timbre zumbador 10x5 de exterior",
+    "price": 17250
+  },
+  {
+    "id": 200,
+    "productName": "Tira LED de 5 metros - OSR 5050MM",
+    "price": 9700
+  },
+  {
+    "id": 201,
+    "productName": "Toma doble exterior (MIG)",
+    "price": 3200
+  },
+  {
+    "id": 202,
+    "productName": "Toma doble exterior 10A",
+    "price": 1800
+  },
+  {
+    "id": 203,
+    "productName": "Toma exterior de 20A",
+    "price": 2106
+  },
+  {
+    "id": 204,
+    "productName": "Toma exterior trifásico 380v 32A",
+    "price": 7000
+  },
+  {
+    "id": 205,
+    "productName": "Toma simple exterior 10A (ciocca)",
+    "price": 1200
+  },
+  {
+    "id": 206,
+    "productName": "Tornillos dorados (kevin)",
+    "price": 20
+  },
+  {
+    "id": 207,
+    "productName": "Tornillos Drywall 8x2 Fosfatizado Negro (para tarugos/tacos del 8)",
+    "price": 60
+  },
+  {
+    "id": 208,
+    "productName": "Tornillos negros (kevin)",
+    "price": 20
+  },
+  {
+    "id": 209,
+    "productName": "Tortuga oval LED 12w (Fría/Cálida) (MACROLED)",
+    "price": 12151.1
+  },
+  {
+    "id": 210,
+    "productName": "Tortuga PVC ovalada (con portalámpara)",
+    "price": 5000
+  },
+  {
+    "id": 211,
+    "productName": "Tortuga vidrio redonda (color blanco) (con portalámpara)",
+    "price": 8827
+  },
+  {
+    "id": 212,
+    "productName": "Transormador Yali 220V a 12V",
+    "price": 0
+  },
+  {
+    "id": 213,
+    "productName": "Transormador Yali 220V a 24V",
+    "price": 0
+  },
+  {
+    "id": 214,
+    "productName": "Transormador Yali 380V a 24V",
+    "price": 0
+  },
+  {
+    "id": 215,
+    "productName": "Tubo LED 16W (Phillips) (Fría/Cálida) (120cm)",
+    "price": 3300
+  },
+  {
+    "id": 216,
+    "productName": "Tubo LED 18W (Macroled) (Fría/Cálida) (120cm)",
+    "price": 2853.9
+  },
+  {
+    "id": 217,
+    "productName": "Tubo LED 9W (Macroled) (Fría/Cálida) (60cm)",
+    "price": 1972.35
+  },
+  {
+    "id": 218,
+    "productName": "Unión/conector de chapa 1\" (unidad)",
+    "price": 500
+  },
+  {
+    "id": 219,
+    "productName": "Unión/conector de chapa 3/4\" (unidad)",
+    "price": 250
+  },
+  {
+    "id": 220,
+    "productName": "Unión/conector de chapa 7/8\" (unidad)",
+    "price": 400
+  },
+  {
+    "id": 221,
+    "productName": "Unión/conector PVC 20 mm",
+    "price": 200
+  },
+  {
+    "id": 222,
+    "productName": "Unión/conector PVC 22 mm",
+    "price": 300
+  },
+  {
+    "id": 223,
+    "productName": "Tapa ciega para Caja Mignon",
+    "price": 180
+  },
+  {
+    "id": 224,
+    "productName": "Capacitores (1,5uf) 450v (C. Alterna)",
+    "price": 3200
+  },
+  {
+    "id": 225,
+    "productName": "Capacitores (2,5uf) 450v (C. Alterna)",
+    "price": 3300
+  },
+  {
+    "id": 226,
+    "productName": "Capacitores (3uf) (4uf) 450v (C. Alterna)",
+    "price": 3600
+  },
+  {
+    "id": 227,
+    "productName": "Juego/kit de destornilladores/herramientas de precisión (desarmado celulares)",
+    "price": 11300
+  },
+  {
+    "id": 228,
+    "productName": "Foco / Lámpara LED 5w (KIAR)",
+    "price": 1000
+  },
+  {
+    "id": 229,
+    "productName": "Ficha bipolar - 2 patas redondas (macho y hembra)",
+    "price": 600
+  },
+  {
+    "id": 230,
+    "productName": "Regulador ventilador - ANTHAY",
+    "price": 15600
+  },
+  {
+    "id": 231,
+    "productName": "Zapatilla sin cable (chica)",
+    "price": 900
+  },
+  {
+    "id": 232,
+    "productName": "Multímetro/Tester digital básico - (BAROVO)",
+    "price": 6500
+  },
+  {
+    "id": 233,
+    "productName": "Adaptador ficha americana",
+    "price": 600
+  },
+  {
+    "id": 234,
+    "productName": "Asiento/Tapa para inodoro",
+    "price": 7200
+  },
+  {
+    "id": 235,
+    "productName": "Timbre inalámbrico (LUXOM)",
+    "price": 7900
+  },
+  {
+    "id": 236,
+    "productName": "Lámpara LED flash 0,15w (Interelec) Filamento Color",
+    "price": 2800
+  },
+  {
+    "id": 237,
+    "productName": "Ficha macho lateral 10A",
+    "price": 600
+  },
+  {
+    "id": 238,
+    "productName": "Lámpara LED 14w / 15w (MACROLED/LEDVANCE) (Fría/Cálida)",
+    "price": 1500
+  },
+  {
+    "id": 239,
+    "productName": "Lámpara LED galponera 19w (MACROLED) (Fría/Cálida)",
+    "price": 3180
+  },
+  {
+    "id": 240,
+    "productName": "Lámpara LED 1,8w (E14) (MACROLED) (Cálida/Fría)",
+    "price": 2400
+  },
+  {
+    "id": 241,
+    "productName": "Lubricante HD440",
+    "price": 3900
+  },
+  {
+    "id": 242,
+    "productName": "Canilla plástica para lavatorio",
+    "price": 2700
+  },
+  {
+    "id": 243,
+    "productName": "Lámpara LED 12w - (TREFI)",
+    "price": 1400
+  },
+  {
+    "id": 244,
+    "productName": "Caja para medidor monofásica lisa",
+    "price": 15000
+  },
+  {
+    "id": 245,
+    "productName": "Lámpara LED (G9) 4,5w (MACROLED)",
+    "price": 2310.84
+  },
+  {
+    "id": 246,
+    "productName": "Tarugos 6 / Taco Fischer 6",
+    "price": 15
+  },
+  {
+    "id": 247,
+    "productName": "Tarugos 8 / Taco Fischer 8",
+    "price": 20
+  },
+  {
+    "id": 248,
+    "productName": "Antiparra / gafas de seguridad",
+    "price": 2500
+  },
+  {
+    "id": 249,
+    "productName": "Caño pilar 1 - 1/4\"",
+    "price": 31153.8
+  },
+  {
+    "id": 250,
+    "productName": "Caño rígido 20 mm",
+    "price": 2102.1
+  },
+  {
+    "id": 251,
+    "productName": "Caño rígido 22 mm",
+    "price": 2815.8
+  },
+  {
+    "id": 252,
+    "productName": "Cápsula toma 10A",
+    "price": 3100
+  },
+  {
+    "id": 253,
+    "productName": "Cinta aisladora de 10 metros (LUXOM)",
+    "price": 700
+  },
+  {
+    "id": 254,
+    "productName": "Cinta aisladora de 10 metros (TACSA | VINI-TAPE)",
+    "price": 1000
+  },
+  {
+    "id": 255,
+    "productName": "Cinta aisladora de 20 metros (TACSA - VINI - TAPE)",
+    "price": 1600
+  },
+  {
+    "id": 256,
+    "productName": "Cinta aisladora de 5 metros (TACSA - VINI TAPE - INTECK)",
+    "price": 600
+  },
+  {
+    "id": 257,
+    "productName": "Cinta teflón 1/2\" (10 metros)",
+    "price": 400
+  },
+  {
+    "id": 258,
+    "productName": "Codo pipeta pilar (1 - 1/2\") (1 - 1/4\")",
+    "price": 1251
+  },
+  {
+    "id": 259,
+    "productName": "Balde de albañil",
+    "price": 2800
+  },
+  {
+    "id": 260,
+    "productName": "Conectores RG6 (TV)",
+    "price": 300
+  },
+  {
+    "id": 261,
+    "productName": "Contactor 38A",
+    "price": 0
+  },
+  {
+    "id": 262,
+    "productName": "Contactor 40A",
+    "price": 0
+  },
+  {
+    "id": 263,
+    "productName": "Contactor 50A",
+    "price": 0
+  },
+  {
+    "id": 264,
+    "productName": "cutter Duroll",
+    "price": 6500
+  },
+  {
+    "id": 265,
+    "productName": "cutter kitana",
+    "price": 7500
+  },
+  {
+    "id": 266,
+    "productName": "Delantal Jean",
+    "price": 0
+  },
+  {
+    "id": 267,
+    "productName": "Destornillador Interelec INT-762",
+    "price": 3900
+  },
+  {
+    "id": 268,
+    "productName": "Destornillador Interelec INT-764",
+    "price": 5100
+  },
+  {
+    "id": 269,
+    "productName": "Destornillador Interelec INT-765",
+    "price": 2940
+  },
+  {
+    "id": 270,
+    "productName": "",
+    "price": 3577.0939
+  },
+  {
+    "id": 271,
+    "productName": "Disco de corte 115mm (DOBLE A|BOSCH)",
+    "price": 700
+  },
+  {
+    "id": 272,
+    "productName": "Disco de corte 180 mm (DOBLE A)",
+    "price": 1544.4
+  },
+  {
+    "id": 273,
+    "productName": "Disco de corte de pared (ENERGY) (segmentado)",
+    "price": 5100
+  },
+  {
+    "id": 274,
+    "productName": "Disco de desbaste 115mm (DOBLE A)",
+    "price": 1300
+  },
+  {
+    "id": 275,
+    "productName": "Disco flap 115mm (HAMILTON / DOBLE A)",
+    "price": 1700
+  },
+  {
+    "id": 276,
+    "productName": "Disco flap 180mm (HAMILTON / DOBLE A)",
+    "price": 2900
+  },
+  {
+    "id": 277,
+    "productName": "Disco Lija Velcro grano",
+    "price": 500
+  },
+  {
+    "id": 278,
+    "productName": "Disyuntor diferencial bipolar 40A (Sica)",
+    "price": 22500
+  },
+  {
+    "id": 279,
+    "productName": "Estaño para soldar / soldadura",
+    "price": 850
+  },
+  {
+    "id": 280,
+    "productName": "Grampa Stark 20mm",
+    "price": 150
+  },
+  {
+    "id": 281,
+    "productName": "Zócalo cerámico Gu10 (dicróica)",
+    "price": 750
+  },
+  {
+    "id": 282,
+    "productName": "Zocalo con rotor G13 (para tubos)",
+    "price": 980
+  },
+  {
+    "id": 283,
+    "productName": "Zócalo flexible (para tubos LED)",
+    "price": 807.84
+  }
 ]
