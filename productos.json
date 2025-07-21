@@ -776,7 +776,7 @@
   },
   {
     "id": 155,
-    "productName": "Plafón LED Cuadrado 18W",
+    "productName": "Plafón LED Cuadrado 18W (Resiliente)",
     "price": 6500
   },
   {
@@ -831,7 +831,7 @@
   },
   {
     "id": 166,
-    "productName": "Protector de tensión 10a BAW",
+    "productName": "Protector de tensión 10a (BAW)",
     "price": 15000
   },
   {
@@ -1011,7 +1011,7 @@
   },
   {
     "id": 202,
-    "productName": "Toma doble exterior 10A",
+    "productName": "Toma doble exterior 10A (ciocca)",
     "price": 1800
   },
   {
@@ -1151,7 +1151,7 @@
   },
   {
     "id": 230,
-    "productName": "Regulador ventilador - ANTHAY",
+    "productName": "Regulador velocidad ventilador - (ANTHAY)",
     "price": 15600
   },
   {
@@ -1217,7 +1217,7 @@
   {
     "id": 243,
     "productName": "Lámpara LED 12w - (TREFI)",
-    "price": 1400
+    "price": 1300
   },
   {
     "id": 244,
@@ -1251,17 +1251,17 @@
   },
   {
     "id": 250,
-    "productName": "Caño rígido 20 mm",
+    "productName": "Caño rígido semipesado PVC 20 mm",
     "price": 2102.1
   },
   {
     "id": 251,
-    "productName": "Caño rígido 22 mm",
+    "productName": "Caño rígido semipesado PVC 22 mm",
     "price": 2815.8
   },
   {
     "id": 252,
-    "productName": "Cápsula toma 10A",
+    "productName": "Cápsula toma / Toma capsulado 10A (MIG)",
     "price": 3100
   },
   {
