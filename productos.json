@@ -492,17 +492,17 @@
   {
     "id": 95,
     "productName": "Lámpara FILAMENTO 3w (AMBAR) (E27) (MACROLED)",
-    "price": 4300
+    "price": 4500
   },
   {
     "id": 96,
     "productName": "Lámpara FILAMENTO 4w (Cálida) (E14) (MACROLED)",
-    "price": 2400
+    "price": 2500
   },
   {
     "id": 97,
     "productName": "Lámpara FILAMENTO 5w (AMBAR) (E27) (MACROLED)",
-    "price": 6300
+    "price": 6500
   },
   {
     "id": 98,
@@ -1216,8 +1216,8 @@
   },
   {
     "id": 240,
-    "productName": "Lámpara LED 1,8w (E14) (MACROLED) (Cálida/Fría)",
-    "price": 2400
+    "productName": "Lámpara LED 1,8w (E14) (Heladera) (MACROLED) (Cálida/Fría)",
+    "price": 2500
   },
   {
     "id": 241,
