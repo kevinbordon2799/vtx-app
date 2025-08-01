@@ -1,5 +1,10 @@
 [
   {
+    "id": 1050,
+    "productName": "Adaptador doble",
+    "price": 1500
+  },
+  {
     "id": 1040,
     "productName": "Portalámparas 2 partes / 2 piezas",
     "price": 500
@@ -46,8 +51,8 @@
   },
   {
     "id": 6,
-    "productName": "Adaptador triple | Adaptador doble",
-    "price": 1600
+    "productName": "Adaptador triple",
+    "price": 1700
   },
   {
     "id": 7,
