@@ -1,5 +1,15 @@
 [
   {
+    "id": 1080,
+    "productName": "Lámpara LED bulbón 38w / 40w (KING)",
+    "price": 6000
+  },
+  {
+    "id": 1070,
+    "productName": "Destornillador Buscapolo 250v 4x190mm (Jadever)",
+    "price": 2500
+  },
+  {
     "id": 1060,
     "productName": "Lámpara LED dicróica 7w (Trefi) (Fría)",
     "price": 1300
@@ -412,7 +422,7 @@
   {
     "id": 77,
     "productName": "Fotocélula 1200w 6A - MACROLED",
-    "price": 7410
+    "price": 7900
   },
   {
     "id": 78,
@@ -492,12 +502,12 @@
   {
     "id": 93,
     "productName": "Lámpara Dicroica LED 5w (MACROLED) (Fría/Cálida)",
-    "price": 1300
+    "price": 1400
   },
   {
     "id": 94,
     "productName": "Lámpara Dicroica LED 7w (MACROLED) (Fría/Cálida)",
-    "price": 1700
+    "price": 1800
   },
   {
     "id": 95,
@@ -512,7 +522,7 @@
   {
     "id": 97,
     "productName": "Lámpara FILAMENTO 5w (AMBAR) (E27) (MACROLED)",
-    "price": 6500
+    "price": 7000
   },
   {
     "id": 98,
@@ -572,7 +582,7 @@
   {
     "id": 109,
     "productName": "Lámpara LED bulbón 28w / 30w (KING)",
-    "price": 4100
+    "price": 4400
   },
   {
     "id": 110,
@@ -637,12 +647,12 @@
   {
     "id": 122,
     "productName": "Machete acero al carbono 10\" (Jadever)",
-    "price": 6939
+    "price": 7000
   },
   {
     "id": 123,
     "productName": "Machete acero al carbono 20\" (Jadever)",
-    "price": 8501.94
+    "price": 8800
   },
   {
     "id": 124,
@@ -662,27 +672,27 @@
   {
     "id": 127,
     "productName": "Panel plafón LED 12w (Circular) (KING) (Fría/Cálida)",
-    "price": 5510.7
+    "price": 5700
   },
   {
     "id": 128,
     "productName": "Panel plafón LED 18w (Circular) (KING) (Fría/Cálida)",
-    "price": 7221.9
+    "price": 7500
   },
   {
     "id": 129,
     "productName": "Panel plafón LED 18w (Cuadrado) (MACROLED) (Fría/Cálida)",
-    "price": 12807.6
+    "price": 13500
   },
   {
     "id": 130,
     "productName": "Panel plafón LED 24w (Circular) (KING) (Fría/Cálida)",
-    "price": 11500
+    "price": 12000
   },
   {
     "id": 131,
     "productName": "Panel plafón LED 6w (Circular) (KING) (Fría/Cálida)",
-    "price": 3828.6
+    "price": 3900
   },
   {
     "id": 132,
@@ -972,12 +982,12 @@
   {
     "id": 189,
     "productName": "Térmicas bipolar 16 A / 20 A / 25 A / 32 A (JELUZ / CHINT)",
-    "price": 7800
+    "price": 8400
   },
   {
     "id": 190,
     "productName": "Térmicas bipolar 16 A / 20 A / 25 A / 32 A (SICA)",
-    "price": 7100
+    "price": 7400
   },
   {
     "id": 191,
@@ -987,27 +997,27 @@
   {
     "id": 192,
     "productName": "Térmica bipolar 40A (CHINT)",
-    "price": 9100
+    "price": 9500
   },
   {
     "id": 193,
     "productName": "Térmica Bipolar 40A (Interelec)",
-    "price": 7800
+    "price": 8000
   },
   {
     "id": 194,
     "productName": "Térmica bipolar 40A (SICA)",
-    "price": 8300
+    "price": 8500
   },
   {
     "id": 195,
     "productName": "Térmicas unipolares 16 A / 20 A / 25 A / 32 A (JELUZ / CHINT)",
-    "price": 4400
+    "price": 4500
   },
   {
     "id": 196,
     "productName": "Térmicas unipolares 40A (JELUZ / CHINT)",
-    "price": 4700
+    "price": 4900
   },
   {
     "id": 197,
@@ -1102,7 +1112,7 @@
   {
     "id": 215,
     "productName": "Tubo LED 16W (Phillips) (Fría/Cálida) (120cm)",
-    "price": 3300
+    "price": 3500
   },
   {
     "id": 216,
