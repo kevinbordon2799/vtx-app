@@ -2,7 +2,7 @@
   {
     "id": 1080,
     "productName": "Lámpara LED bulbón 38w / 40w (KING)",
-    "price": 6000
+    "price": 6500
   },
   {
     "id": 1070,
@@ -72,7 +72,7 @@
   {
     "id": 7,
     "productName": "Alicate corte diagonal 180mm (7\") mango ergonómico (Jadever)",
-    "price": 7800
+    "price": 8500
   },
   {
     "id": 8,
@@ -90,14 +90,9 @@
     "price": 3900
   },
   {
-    "id": 11,
-    "productName": "Cable de alimentación calefón eléctrico (1,9 metros)",
-    "price": 4900
-  },
-  {
     "id": 12,
     "productName": "Cable de alimentación calefón eléctrico 2 metros (Indelplas)",
-    "price": 5700
+    "price": 5900
   },
   {
     "id": 13,
@@ -222,12 +217,12 @@
   {
     "id": 37,
     "productName": "Candado 30mm 3 llaves hierro (JDPD1450) (Jadever)",
-    "price": 5348.2
+    "price": 5900
   },
   {
     "id": 38,
     "productName": "Candado 50mm 3 llaves hierro (JDPD1450) (Jadever)",
-    "price": 10468.9
+    "price": 11500
   },
   {
     "id": 39,
@@ -282,17 +277,17 @@
   {
     "id": 51,
     "productName": "Destornilladores Chicos (plano/phillips) (Jadever)",
-    "price": 1700
+    "price": 2100
   },
   {
     "id": 52,
     "productName": "Destornilladores Grandes (plano/phillips) (Jadever)",
-    "price": 2600
+    "price": 2900
   },
   {
     "id": 53,
     "productName": "Destornilladores Medianos (plano/phillips) (Jadever)",
-    "price": 2100
+    "price": 2500
   },
   {
     "id": 54,
@@ -455,11 +450,6 @@
     "price": 12900
   },
   {
-    "id": 86,
-    "productName": "Inflador 3 picos cilindro de acero (JDPP1C01) (Jadever)",
-    "price": 12972
-  },
-  {
     "id": 87,
     "productName": "Jabalina 1/2\" con tomacable",
     "price": 18000
@@ -467,12 +457,12 @@
   {
     "id": 88,
     "productName": "Juego Kit 4 destornilladores (JDSS2204) (Jadever)",
-    "price": 6439.45
+    "price": 7000
   },
   {
     "id": 89,
-    "productName": "Juego Kit 6 destornilladores (Jadever)",
-    "price": 11700
+    "productName": "Juego Kit 6 destornilladores (JDSS1206) (Jadever)",
+    "price": 12500
   },
   {
     "id": 90,
@@ -492,27 +482,27 @@
   {
     "id": 93,
     "productName": "Lámpara Dicroica LED 5w (MACROLED) (Fría/Cálida)",
-    "price": 1400
+    "price": 1500
   },
   {
     "id": 94,
     "productName": "Lámpara Dicroica LED 7w (MACROLED) (Fría/Cálida)",
-    "price": 1800
+    "price": 1900
   },
   {
     "id": 95,
-    "productName": "Lámpara FILAMENTO 3w (AMBAR) (E27) (MACROLED)",
-    "price": 4500
+    "productName": "Lámpara FILAMENTO 3w (AMBAR) (Cálida) (E27) (MACROLED)",
+    "price": 4800
   },
   {
     "id": 96,
-    "productName": "Lámpara FILAMENTO 4w (Cálida) (E14) (MACROLED)",
-    "price": 2500
+    "productName": "Lámpara FILAMENTO 4w (Cálida) (Cálida) (E14) (MACROLED)",
+    "price": 2800
   },
   {
     "id": 97,
-    "productName": "Lámpara FILAMENTO 5w (AMBAR) (E27) (MACROLED)",
-    "price": 7000
+    "productName": "Lámpara FILAMENTO 5w (AMBAR) (Cálida) (E27) (MACROLED)",
+    "price": 7500
   },
   {
     "id": 98,
@@ -572,32 +562,32 @@
   {
     "id": 109,
     "productName": "Lámpara LED bulbón 28w / 30w (KING)",
-    "price": 4400
+    "price": 4500
   },
   {
     "id": 110,
     "productName": "Lámpara LED bulbón 28w / 30w (MACROLED)",
-    "price": 4700
+    "price": 5000
   },
   {
     "id": 111,
     "productName": "Lámpara LED bulbón 38w / 40w (MACROLED)",
-    "price": 7104.24
+    "price": 7400
   },
   {
     "id": 112,
     "productName": "Lámpara LED bulbón 48w / 50w (MACROLED)",
-    "price": 10281.7
+    "price": 10900
   },
   {
     "id": 113,
     "productName": "Lámpara LED dicróica 5w (KING) (Fría/Cálida)",
-    "price": 1100
+    "price": 1200
   },
   {
     "id": 114,
     "productName": "Lámpara LED dicróica 7w (KING) (Fría/Cálida)",
-    "price": 1200
+    "price": 1300
   },
   {
     "id": 115,
@@ -617,17 +607,17 @@
   {
     "id": 118,
     "productName": "Linternita 9 LEDs",
-    "price": 2200
+    "price": 2500
   },
   {
     "id": 119,
     "productName": "Liston para tubo LED (120cm)",
-    "price": 4100
+    "price": 4000
   },
   {
     "id": 120,
     "productName": "Liston para tubo LED (60cm)",
-    "price": 3000
+    "price": 3400
   },
   {
     "id": 121,
@@ -637,32 +627,32 @@
   {
     "id": 122,
     "productName": "Machete acero al carbono 10\" (Jadever)",
-    "price": 7000
+    "price": 7500
   },
   {
     "id": 123,
     "productName": "Machete acero al carbono 20\" (Jadever)",
-    "price": 8800
+    "price": 9500
   },
   {
     "id": 124,
     "productName": "Martillo 300g (JDHM1303) (Jadever)",
-    "price": 8500
+    "price": 9000
   },
   {
     "id": 125,
     "productName": "Panel flat LED embutir 18w (Cuadrado) (MDL) (Fría/Cálida)",
-    "price": 7200
+    "price": 7500
   },
   {
     "id": 126,
     "productName": "Panel flat LED embutir 24w (Cuadrado) (MDL) (Fría/Cálida)",
-    "price": 11500
+    "price": 12000
   },
   {
     "id": 127,
     "productName": "Panel plafón LED 12w (Circular) (KING) (Fría/Cálida)",
-    "price": 5700
+    "price": 6300
   },
   {
     "id": 128,
@@ -672,7 +662,7 @@
   {
     "id": 129,
     "productName": "Panel plafón LED 18w (Cuadrado) (MACROLED) (Fría/Cálida)",
-    "price": 13500
+    "price": 14500
   },
   {
     "id": 130,
@@ -682,12 +672,12 @@
   {
     "id": 131,
     "productName": "Panel plafón LED 6w (Circular) (KING) (Fría/Cálida)",
-    "price": 3900
+    "price": 4300
   },
   {
     "id": 132,
     "productName": "Panel plafón LED 6w (Circular) (MACROLED) (Fría/Cálida)",
-    "price": 5512
+    "price": 5900
   },
   {
     "id": 133,
@@ -716,7 +706,7 @@
   },
   {
     "id": 138,
-    "productName": "Pila 23A 12v (Vinnic)",
+    "productName": "Pila 23A 12v (Vinnic) (para timbre inalámbrico)",
     "price": 1100
   },
   {
@@ -737,7 +727,7 @@
   {
     "id": 142,
     "productName": "Pincel 1 - 1/2\" - Condor",
-    "price": 1800
+    "price": 1900
   },
   {
     "id": 143,
@@ -747,22 +737,22 @@
   {
     "id": 144,
     "productName": "Pincel Número 15 - ROSARPIN",
-    "price": 3200
+    "price": 3500
   },
   {
     "id": 145,
     "productName": "Pincel Número 20 - ROSARPIN",
-    "price": 3500
+    "price": 3900
   },
   {
     "id": 146,
     "productName": "Pinceles 50mm (Jadever)",
-    "price": 1600
+    "price": 1800
   },
   {
     "id": 147,
     "productName": "Pinceles 75mm (Jadever)",
-    "price": 2900
+    "price": 3000
   },
   {
     "id": 148,
@@ -777,7 +767,7 @@
   {
     "id": 150,
     "productName": "Pinza de punta larga 200mm (8\") mango ergonómico (Jadever)",
-    "price": 7800
+    "price": 8500
   },
   {
     "id": 151,
@@ -787,12 +777,12 @@
   {
     "id": 152,
     "productName": "Pinza pelacables 215mm (8,5\") (Jadever)",
-    "price": 11500
+    "price": 12500
   },
   {
     "id": 153,
     "productName": "Pinza universal 180mm (7\") mango ergonómico (Jadever)",
-    "price": 7800
+    "price": 8500
   },
   {
     "id": 154,
@@ -802,7 +792,7 @@
   {
     "id": 155,
     "productName": "Plafón LED Cuadrado 18W (Resiliente)",
-    "price": 6500
+    "price": 7000
   },
   {
     "id": 156,
@@ -847,7 +837,7 @@
   {
     "id": 164,
     "productName": "Prolongador/Zapatilla eléctrica con interruptor (1,5 metros) (INTECK)",
-    "price": 11900
+    "price": 12800
   },
   {
     "id": 165,
@@ -892,27 +882,27 @@
   {
     "id": 173,
     "productName": "Reflector LED 10 W (Luz Fría)(Candela / KING)",
-    "price": 3800
+    "price": 4400
   },
   {
     "id": 174,
     "productName": "Reflector LED 20 W (Luz Fría) (Candela / KING)",
-    "price": 5787.6
+    "price": 6500
   },
   {
     "id": 175,
     "productName": "Reflector LED 30 W (Luz Fría) (Candela / KING)",
-    "price": 6700
+    "price": 7500
   },
   {
     "id": 176,
     "productName": "Reflector LED 30w (Cuadrado) (MACROLED) (Fría/Cálida)",
-    "price": 16250
+    "price": 19500
   },
   {
     "id": 177,
     "productName": "Reflector LED 50 W (Luz Fría) (Candela / KING)",
-    "price": 9500
+    "price": 11000
   },
   {
     "id": 178,
@@ -972,7 +962,7 @@
   {
     "id": 189,
     "productName": "Térmicas bipolar 16 A / 20 A / 25 A / 32 A (JELUZ / CHINT)",
-    "price": 8800
+    "price": 8900
   },
   {
     "id": 190,
@@ -987,7 +977,7 @@
   {
     "id": 192,
     "productName": "Térmica bipolar 40A (CHINT)",
-    "price": 9800
+    "price": 9900
   },
   {
     "id": 193,
@@ -1002,12 +992,12 @@
   {
     "id": 195,
     "productName": "Térmicas unipolares 16 A / 20 A / 25 A / 32 A (JELUZ / CHINT)",
-    "price": 4800
+    "price": 4900
   },
   {
     "id": 196,
     "productName": "Térmicas unipolares 40A (JELUZ / CHINT)",
-    "price": 5300
+    "price": 5400
   },
   {
     "id": 197,
@@ -1072,7 +1062,7 @@
   {
     "id": 209,
     "productName": "Tortuga oval LED 12w (Fría/Cálida) (MACROLED)",
-    "price": 12151.1
+    "price": 14500
   },
   {
     "id": 210,
@@ -1107,12 +1097,12 @@
   {
     "id": 216,
     "productName": "Tubo LED 18W (Macroled) (Fría/Cálida) (120cm)",
-    "price": 2900
+    "price": 3000
   },
   {
     "id": 217,
     "productName": "Tubo LED 9W (Macroled) (Fría/Cálida) (60cm)",
-    "price": 2000
+    "price": 2100
   },
   {
     "id": 218,
@@ -1220,19 +1210,14 @@
     "price": 1600
   },
   {
-    "id": 239,
-    "productName": "Lámpara LED galponera 19w (MACROLED) (Fría/Cálida)",
-    "price": 3180
-  },
-  {
     "id": 240,
     "productName": "Lámpara LED 1,8w (E14) (Heladera) (MACROLED) (Cálida/Fría)",
-    "price": 2500
+    "price": 2800
   },
   {
     "id": 241,
     "productName": "Lubricante HD440",
-    "price": 3900
+    "price": 4000
   },
   {
     "id": 242,
@@ -1252,7 +1237,7 @@
   {
     "id": 245,
     "productName": "Lámpara LED (G9) 4,5w (MACROLED)",
-    "price": 2310.84
+    "price": 2800
   },
   {
     "id": 246,
