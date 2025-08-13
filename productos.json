@@ -257,17 +257,7 @@
   {
     "id": 44,
     "productName": "Cinta pasacable 10 metros (ACERO)",
-    "price": 5131.88
-  },
-  {
-    "id": 45,
-    "productName": "Cinta pasacable 15 metros (ACERO)",
-    "price": 6900
-  },
-  {
-    "id": 46,
-    "productName": "Cinta pasacable 15 metros (PVC)",
-    "price": 2900
+    "price": 5200
   },
   {
     "id": 47,
@@ -402,7 +392,7 @@
   {
     "id": 73,
     "productName": "Portalámpara Florón grande recto",
-    "price": 1100
+    "price": 1200
   },
   {
     "id": 74,
@@ -947,7 +937,7 @@
   {
     "id": 182,
     "productName": "Spot Dicroica (blanco / negro)",
-    "price": 1236.6
+    "price": 1700
   },
   {
     "id": 183,
