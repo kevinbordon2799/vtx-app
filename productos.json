@@ -561,13 +561,8 @@
   },
   {
     "id": 106,
-    "productName": "Lámpara LED 9W (Sol de noche) / (LEDVANCE)",
-    "price": 1200
-  },
-  {
-    "id": 107,
-    "productName": "Lámpara LED 9w / 10w (MACROLED)",
-    "price": 1200
+    "productName": "Lámpara LED 9W (Sol de noche) / (LEDVANCE) / (MACROLED)",
+    "price": 1300
   },
   {
     "id": 108,
@@ -1216,8 +1211,8 @@
   },
   {
     "id": 238,
-    "productName": "Lámpara LED 14w / 15w (MACROLED/LEDVANCE) (Fría/Cálida)",
-    "price": 1600
+    "productName": "Lámpara LED 14w / 15w (MACROLED / LEDVANCE) (Fría/Cálida)",
+    "price": 1700
   },
   {
     "id": 240,
