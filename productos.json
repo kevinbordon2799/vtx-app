@@ -32,7 +32,7 @@
   {
     "id": 1050,
     "productName": "Adaptador doble",
-    "price": 1700
+    "price": 1800
   },
   {
     "id": 1040,
@@ -82,7 +82,7 @@
   {
     "id": 6,
     "productName": "Adaptador triple",
-    "price": 1900
+    "price": 2000
   },
   {
     "id": 7,
@@ -292,17 +292,17 @@
   {
     "id": 51,
     "productName": "Destornilladores Chicos (plano/phillips) (Jadever)",
-    "price": 2100
+    "price": 2200
   },
   {
     "id": 52,
     "productName": "Destornilladores Grandes (plano/phillips) (Jadever)",
-    "price": 2900
+    "price": 3000
   },
   {
     "id": 53,
     "productName": "Destornilladores Medianos (plano/phillips) (Jadever)",
-    "price": 2500
+    "price": 2600
   },
   {
     "id": 54,
@@ -462,7 +462,7 @@
   {
     "id": 85,
     "productName": "Guirnaldas de luces armadas - (10 metros)",
-    "price": 13500
+    "price": 14000
   },
   {
     "id": 87,
@@ -477,7 +477,7 @@
   {
     "id": 89,
     "productName": "Juego Kit 6 destornilladores (JDSS1206) (Jadever)",
-    "price": 12500
+    "price": 13000
   },
   {
     "id": 90,
@@ -847,12 +847,12 @@
   {
     "id": 164,
     "productName": "Prolongador/Zapatilla eléctrica con interruptor (1,5 metros) (INTECK)",
-    "price": 12900
+    "price": 14000
   },
   {
     "id": 165,
     "productName": "Prolongador/Zapatilla eléctrica con interruptor (1,5 metros) (SICA)",
-    "price": 10900
+    "price": 11500
   },
   {
     "id": 166,
