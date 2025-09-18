@@ -67,12 +67,12 @@
   {
     "id": 3,
     "productName": "Punto simple | Toma 10a simple (CHATO) (Jeluz exterior)",
-    "price": 1300
+    "price": 1500
   },
   {
     "id": 4,
     "productName": "Punto y toma | Toma doble | doble punto (CHATO) (Jeluz exterior)",
-    "price": 2400
+    "price": 2700
   },
   {
     "id": 5,
@@ -362,7 +362,7 @@
   {
     "id": 65,
     "productName": "Ficha macho / hembra 20A (20 ampéres) (MIG)",
-    "price": 2500
+    "price": 2800
   },
   {
     "id": 66,
@@ -807,7 +807,7 @@
   {
     "id": 156,
     "productName": "Portalámpara colgante (blanco / negro)",
-    "price": 6000
+    "price": 6500
   },
   {
     "id": 157,
@@ -917,7 +917,7 @@
   {
     "id": 178,
     "productName": "Resistencia ACERO calefón",
-    "price": 6500
+    "price": 7500
   },
   {
     "id": 180,
@@ -1182,7 +1182,7 @@
   {
     "id": 232,
     "productName": "Multímetro/Tester digital básico - (BAROVO)",
-    "price": 6500
+    "price": 6900
   },
   {
     "id": 233,
