@@ -92,7 +92,7 @@
   {
     "id": 7,
     "productName": "Alicate corte diagonal 180mm (7\") mango ergonómico (Jadever)",
-    "price": 8500
+    "price": 8900
   },
   {
     "id": 8,
@@ -292,7 +292,7 @@
   {
     "id": 50,
     "productName": "Destornillador Buscapolo 250v 3x140mm (Jadever)",
-    "price": 1700
+    "price": 1800
   },
   {
     "id": 51,
@@ -487,7 +487,7 @@
   {
     "id": 90,
     "productName": "Kit puntas destornillador 12 piezas (JDSS1612) (Jadever)",
-    "price": 6500
+    "price": 6900
   },
   {
     "id": 91,
@@ -782,7 +782,7 @@
   {
     "id": 150,
     "productName": "Pinza de punta larga 200mm (8\") mango ergonómico (Jadever)",
-    "price": 8500
+    "price": 8900
   },
   {
     "id": 151,
@@ -792,17 +792,17 @@
   {
     "id": 152,
     "productName": "Pinza pelacables 215mm (8,5\") (Jadever)",
-    "price": 13000
+    "price": 14000
   },
   {
     "id": 153,
     "productName": "Pinza universal 180mm (7\") mango ergonómico (Jadever)",
-    "price": 8500
+    "price": 8900
   },
   {
     "id": 154,
     "productName": "Pinza universal común 6\" (color rojo)",
-    "price": 12900
+    "price": 15000
   },
   {
     "id": 155,
@@ -912,12 +912,12 @@
   {
     "id": 176,
     "productName": "Reflector LED 30w (Cuadrado) (MACROLED) (Fría/Cálida)",
-    "price": 19500
+    "price": 22000
   },
   {
     "id": 177,
     "productName": "Reflector LED 50 W (Luz Fría) (Candela / KING)",
-    "price": 11500
+    "price": 11900
   },
   {
     "id": 178,
@@ -972,12 +972,12 @@
   {
     "id": 189,
     "productName": "Térmicas bipolar 16 A / 20 A / 25 A / 32 A (JELUZ / CHINT)",
-    "price": 8900
+    "price": 9500
   },
   {
     "id": 190,
     "productName": "Térmicas bipolar 16 A / 20 A / 25 A / 32 A (SICA)",
-    "price": 7800
+    "price": 8500
   },
   {
     "id": 191,
@@ -987,27 +987,27 @@
   {
     "id": 192,
     "productName": "Térmica bipolar 40A (CHINT)",
-    "price": 9900
+    "price": 10500
   },
   {
     "id": 193,
     "productName": "Térmica Bipolar 40A (Interelec)",
-    "price": 8000
+    "price": 8500
   },
   {
     "id": 194,
     "productName": "Térmica bipolar 40A (SICA)",
-    "price": 8900
+    "price": 9500
   },
   {
     "id": 195,
     "productName": "Térmicas unipolares 16 A / 20 A / 25 A / 32 A (JELUZ / CHINT)",
-    "price": 4900
+    "price": 5300
   },
   {
     "id": 196,
     "productName": "Térmicas unipolares 40A (JELUZ / CHINT)",
-    "price": 5400
+    "price": 5500
   },
   {
     "id": 197,
