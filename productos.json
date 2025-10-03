@@ -22,7 +22,7 @@
   {
     "id": 1080,
     "productName": "Lámpara LED bulbón 38w / 40w (KING)",
-    "price": 6500
+    "price": 6900
   },
   {
     "id": 1070,
@@ -32,7 +32,7 @@
   {
     "id": 1060,
     "productName": "Lámpara LED dicróica 7w (Trefi) (Fría)",
-    "price": 1300
+    "price": 1400
   },
   {
     "id": 1050,
@@ -317,27 +317,27 @@
   {
     "id": 55,
     "productName": "Driver para panel LED 12w (KING)",
-    "price": 1600
+    "price": 1700
   },
   {
     "id": 56,
     "productName": "Driver para panel LED 12w (Macroled)",
-    "price": 4800
+    "price": 5000
   },
   {
     "id": 57,
     "productName": "Driver para panel LED 18w (KING)",
-    "price": 1800
+    "price": 1900
   },
   {
     "id": 58,
     "productName": "Driver para panel LED 18w (Macroled)",
-    "price": 5500
+    "price": 5800
   },
   {
     "id": 59,
     "productName": "Driver para panel LED 24w (Macroled)",
-    "price": 5900
+    "price": 6300
   },
   {
     "id": 60,
@@ -467,7 +467,7 @@
   {
     "id": 85,
     "productName": "Guirnaldas de luces armadas - (10 metros)",
-    "price": 14500
+    "price": 15000
   },
   {
     "id": 87,
@@ -507,22 +507,22 @@
   {
     "id": 94,
     "productName": "Lámpara Dicroica LED 7w (MACROLED) (Fría/Cálida)",
-    "price": 1900
+    "price": 2000
   },
   {
     "id": 95,
     "productName": "Lámpara FILAMENTO 3w (AMBAR) (Cálida) (E27) (MACROLED)",
-    "price": 4800
+    "price": 5000
   },
   {
     "id": 96,
     "productName": "Lámpara FILAMENTO 4w (Cálida) (Cálida) (E14) (MACROLED)",
-    "price": 2800
+    "price": 3000
   },
   {
     "id": 97,
     "productName": "Lámpara FILAMENTO 5w (AMBAR) (Cálida) (E27) (MACROLED)",
-    "price": 7500
+    "price": 8500
   },
   {
     "id": 98,
@@ -537,7 +537,7 @@
   {
     "id": 100,
     "productName": "Lámpara LED 14w / 15w (KING)",
-    "price": 1400
+    "price": 1500
   },
   {
     "id": 101,
@@ -547,12 +547,12 @@
   {
     "id": 102,
     "productName": "Lámpara LED 6,5w / 7w (KING)",
-    "price": 900
+    "price": 1000
   },
   {
     "id": 103,
     "productName": "Lámpara LED 6,5w / 7w (MACROLED) (Fría/Cálida)",
-    "price": 1100
+    "price": 1200
   },
   {
     "id": 104,
@@ -562,12 +562,12 @@
   {
     "id": 105,
     "productName": "Lámpara LED 9w / 9,5w / 10w (KING)",
-    "price": 1000
+    "price": 1100
   },
   {
     "id": 106,
-    "productName": "Lámpara LED 9W (Sol de noche) / (LEDVANCE) / (MACROLED)",
-    "price": 1300
+    "productName": "Lámpara LED 9W / 9,5w / 10w (Sol de noche) / (LEDVANCE) / (MACROLED)",
+    "price": 1400
   },
   {
     "id": 108,
@@ -577,17 +577,17 @@
   {
     "id": 109,
     "productName": "Lámpara LED bulbón 28w / 30w (KING)",
-    "price": 4500
+    "price": 4900
   },
   {
     "id": 110,
     "productName": "Lámpara LED bulbón 28w / 30w (MACROLED)",
-    "price": 5000
+    "price": 5500
   },
   {
     "id": 111,
     "productName": "Lámpara LED bulbón 38w / 40w (MACROLED)",
-    "price": 7400
+    "price": 7800
   },
   {
     "id": 112,
@@ -597,12 +597,12 @@
   {
     "id": 113,
     "productName": "Lámpara LED dicróica 5w (KING) (Fría/Cálida)",
-    "price": 1200
+    "price": 1300
   },
   {
     "id": 114,
     "productName": "Lámpara LED dicróica 7w (KING) (Fría/Cálida)",
-    "price": 1300
+    "price": 1400
   },
   {
     "id": 115,
@@ -667,37 +667,37 @@
   {
     "id": 127,
     "productName": "Panel plafón LED 12w (Circular) (KING) (Fría/Cálida)",
-    "price": 6400
+    "price": 6500
   },
   {
     "id": 128,
     "productName": "Panel plafón LED 18w (Circular) (KING) (Fría/Cálida)",
-    "price": 7900
+    "price": 8500
   },
   {
     "id": 129,
     "productName": "Panel plafón LED 18w (Cuadrado) (MACROLED) (Fría/Cálida)",
-    "price": 14500
+    "price": 16000
   },
   {
     "id": 130,
     "productName": "Panel plafón LED 24w (Circular) (KING) (Fría/Cálida)",
-    "price": 13000
+    "price": 13500
   },
   {
     "id": 131,
     "productName": "Panel plafón LED 6w (Circular) (KING) (Fría/Cálida)",
-    "price": 4300
+    "price": 4500
   },
   {
     "id": 132,
     "productName": "Panel plafón LED 6w (Circular) (MACROLED) (Fría/Cálida)",
-    "price": 5900
+    "price": 6500
   },
   {
     "id": 133,
     "productName": "Pasta térmica para CPU Hy510 - PC/Computadora/Microprocesador",
-    "price": 1100
+    "price": 1400
   },
   {
     "id": 134,
@@ -902,12 +902,12 @@
   {
     "id": 174,
     "productName": "Reflector LED 20 W (Luz Fría) (Candela / KING)",
-    "price": 6500
+    "price": 6900
   },
   {
     "id": 175,
     "productName": "Reflector LED 30 W (Luz Fría) (Candela / KING)",
-    "price": 7500
+    "price": 7900
   },
   {
     "id": 176,
@@ -917,7 +917,7 @@
   {
     "id": 177,
     "productName": "Reflector LED 50 W (Luz Fría) (Candela / KING)",
-    "price": 11000
+    "price": 11500
   },
   {
     "id": 178,
@@ -1217,12 +1217,12 @@
   {
     "id": 238,
     "productName": "Lámpara LED 14w / 15w (MACROLED / LEDVANCE) (Fría/Cálida)",
-    "price": 1700
+    "price": 1800
   },
   {
     "id": 240,
     "productName": "Lámpara LED 1,8w (E14) (Heladera) (MACROLED) (Cálida/Fría)",
-    "price": 2800
+    "price": 2900
   },
   {
     "id": 241,
@@ -1247,7 +1247,7 @@
   {
     "id": 245,
     "productName": "Lámpara LED (G9) 4,5w (MACROLED)",
-    "price": 2800
+    "price": 2900
   },
   {
     "id": 246,
