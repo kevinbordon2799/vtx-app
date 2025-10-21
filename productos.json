@@ -257,12 +257,7 @@
   {
     "id": 40,
     "productName": "Canilla plástica 1/2\" PVC",
-    "price": 900
-  },
-  {
-    "id": 41,
-    "productName": "Canilla válvula esférica 3/4\" (JDVB3812) (Jadever)",
-    "price": 4800
+    "price": 1000
   },
   {
     "id": 42,
@@ -302,17 +297,17 @@
   {
     "id": 51,
     "productName": "Destornilladores Chicos (plano/phillips) (Jadever)",
-    "price": 2200
+    "price": 2300
   },
   {
     "id": 52,
     "productName": "Destornilladores Grandes (plano/phillips) (Jadever)",
-    "price": 3000
+    "price": 3300
   },
   {
     "id": 53,
     "productName": "Destornilladores Medianos (plano/phillips) (Jadever)",
-    "price": 2600
+    "price": 2700
   },
   {
     "id": 54,
@@ -482,12 +477,12 @@
   {
     "id": 88,
     "productName": "Juego Kit 4 destornilladores (JDSS2204) (Jadever)",
-    "price": 7000
+    "price": 7500
   },
   {
     "id": 89,
     "productName": "Juego Kit 6 destornilladores (JDSS1206) (Jadever)",
-    "price": 13000
+    "price": 13700
   },
   {
     "id": 90,
@@ -647,17 +642,17 @@
   {
     "id": 122,
     "productName": "Machete acero al carbono 10\" (Jadever)",
-    "price": 7500
+    "price": 7900
   },
   {
     "id": 123,
     "productName": "Machete acero al carbono 20\" (Jadever)",
-    "price": 9500
+    "price": 9900
   },
   {
     "id": 124,
     "productName": "Martillo 300g (JDHM1303) (Jadever)",
-    "price": 9000
+    "price": 9500
   },
   {
     "id": 125,
@@ -747,32 +742,32 @@
   {
     "id": 142,
     "productName": "Pincel 1 - 1/2\" - Condor",
-    "price": 1900
+    "price": 2000
   },
   {
     "id": 143,
     "productName": "Pincel 1\" - Condor",
-    "price": 1500
+    "price": 1700
   },
   {
     "id": 144,
     "productName": "Pincel Número 15 - ROSARPIN",
-    "price": 3500
+    "price": 3800
   },
   {
     "id": 145,
     "productName": "Pincel Número 20 - ROSARPIN",
-    "price": 3900
+    "price": 4300
   },
   {
     "id": 146,
     "productName": "Pinceles 50mm (Jadever)",
-    "price": 1800
+    "price": 1900
   },
   {
     "id": 147,
     "productName": "Pinceles 75mm (Jadever)",
-    "price": 3000
+    "price": 3300
   },
   {
     "id": 148,
@@ -952,12 +947,12 @@
   {
     "id": 184,
     "productName": "Tapa ciega chica octogonal",
-    "price": 150
+    "price": 200
   },
   {
     "id": 185,
     "productName": "Tapa ciega chica rectangular",
-    "price": 150
+    "price": 200
   },
   {
     "id": 186,
@@ -1147,7 +1142,7 @@
   {
     "id": 223,
     "productName": "Tapa ciega para Caja Mignon",
-    "price": 180
+    "price": 200
   },
   {
     "id": 224,
