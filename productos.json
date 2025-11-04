@@ -87,7 +87,7 @@
   {
     "id": 3,
     "productName": "Punto simple | Toma 10a simple (CHATO) (Jeluz exterior)",
-    "price": 1500
+    "price": 1600
   },
   {
     "id": 4,
@@ -472,7 +472,7 @@
   {
     "id": 84,
     "productName": "Guantes moteados albañil",
-    "price": 1400
+    "price": 1500
   },
   {
     "id": 85,
@@ -637,7 +637,7 @@
   {
     "id": 119,
     "productName": "Liston para tubo LED (120cm)",
-    "price": 4000
+    "price": 4700
   },
   {
     "id": 120,
@@ -937,7 +937,7 @@
   {
     "id": 180,
     "productName": "Serie 100 luces navidad/navideñas",
-    "price": 4300
+    "price": 5500
   },
   {
     "id": 181,
@@ -947,7 +947,7 @@
   {
     "id": 182,
     "productName": "Spot Dicroica (blanco / negro)",
-    "price": 1700
+    "price": 1800
   },
   {
     "id": 183,
@@ -977,7 +977,7 @@
   {
     "id": 188,
     "productName": "Tapa de inspección para jabalina PVC 10x10",
-    "price": 600
+    "price": 900
   },
   {
     "id": 189,
@@ -1092,7 +1092,7 @@
   {
     "id": 211,
     "productName": "Tortuga vidrio redonda (color blanco) (con portalámpara)",
-    "price": 8900
+    "price": 9400
   },
   {
     "id": 212,
@@ -1117,7 +1117,7 @@
   {
     "id": 216,
     "productName": "Tubo LED 18W (Macroled) (Fría/Cálida) (120cm)",
-    "price": 3000
+    "price": 3300
   },
   {
     "id": 217,
@@ -1127,17 +1127,17 @@
   {
     "id": 218,
     "productName": "Unión/conector de chapa 1\" (unidad)",
-    "price": 700
+    "price": 500
   },
   {
     "id": 219,
     "productName": "Unión/conector de chapa 3/4\" (unidad)",
-    "price": 400
+    "price": 300
   },
   {
     "id": 220,
     "productName": "Unión/conector de chapa 7/8\" (unidad)",
-    "price": 550
+    "price": 400
   },
   {
     "id": 221,
@@ -1212,7 +1212,7 @@
   {
     "id": 235,
     "productName": "Timbre inalámbrico (LUXOM)",
-    "price": 7900
+    "price": 8300
   },
   {
     "id": 236,
@@ -1282,17 +1282,17 @@
   {
     "id": 250,
     "productName": "Caño rígido semipesado PVC 20 mm",
-    "price": 2102.1
+    "price": 2300
   },
   {
     "id": 251,
     "productName": "Caño rígido semipesado PVC 22 mm",
-    "price": 2900
+    "price": 3000
   },
   {
     "id": 252,
     "productName": "Cápsula toma / Toma capsulado 10A (MIG)",
-    "price": 3500
+    "price": 3700
   },
   {
     "id": 253,
