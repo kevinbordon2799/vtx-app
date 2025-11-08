@@ -1,5 +1,10 @@
 [
   {
+    "id": 1160,
+    "productName": "Juego Kit 4 destornilladores (mango ergonómico) (Jadever)",
+    "price": 9500
+  },
+  {
     "id": 1150,
     "productName": "Disco de corte 115mm (LUSQTOFF) (OFERTA 5 o más) (sólo efectivo / transf)",
     "price": 580
@@ -132,17 +137,17 @@
   {
     "id": 13,
     "productName": "Cable canal 14x7",
-    "price": 1268.2
+    "price": 1400
   },
   {
     "id": 14,
     "productName": "Cable canal 18x21",
-    "price": 2592.8
+    "price": 2900
   },
   {
     "id": 15,
     "productName": "Cable canal 20x10",
-    "price": 1591.2
+    "price": 1700
   },
   {
     "id": 16,
@@ -382,7 +387,7 @@
   {
     "id": 66,
     "productName": "Ficha macho 10A (línea IH3) (Amado Elec)",
-    "price": 1200
+    "price": 1300
   },
   {
     "id": 67,
@@ -487,11 +492,11 @@
   {
     "id": 88,
     "productName": "Juego Kit 4 destornilladores (JDSS2204) (Jadever)",
-    "price": 7500
+    "price": 8000
   },
   {
     "id": 89,
-    "productName": "Juego Kit 6 destornilladores (JDSS1206) (Jadever)",
+    "productName": "Juego Kit 6 destornilladores (JDSS1206) (mango ergonómico) (Jadever)",
     "price": 13700
   },
   {
