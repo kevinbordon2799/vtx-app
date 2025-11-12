@@ -1,8 +1,18 @@
 [
   {
+    "id": 1180,
+    "productName": "Cinta aisladora de 10 metros (INTECK)",
+    "price": 1200
+  },
+  {
+    "id": 1170,
+    "productName": "Cinta aisladora de 5 metros (INTECK)",
+    "price": 700
+  },
+  {
     "id": 1160,
     "productName": "Juego Kit 4 destornilladores (mango ergonómico) (Jadever)",
-    "price": 9500
+    "price": 9823
   },
   {
     "id": 1150,
@@ -32,7 +42,7 @@
   {
     "id": 1100,
     "productName": "Disco flap 115mm (Jadever)",
-    "price": 1800
+    "price": 1861
   },
   {
     "id": 1090,
@@ -42,12 +52,12 @@
   {
     "id": 1080,
     "productName": "Lámpara LED bulbón 38w / 40w (KING)",
-    "price": 6900
+    "price": 7127
   },
   {
     "id": 1070,
     "productName": "Destornillador Buscapolo 250v 4x190mm (Jadever)",
-    "price": 2500
+    "price": 2585
   },
   {
     "id": 1060,
@@ -112,7 +122,7 @@
   {
     "id": 7,
     "productName": "Alicate corte diagonal 180mm (7\") mango ergonómico (Jadever)",
-    "price": 8900
+    "price": 9202
   },
   {
     "id": 8,
@@ -247,7 +257,7 @@
   {
     "id": 35,
     "productName": "Calefón calentador eléctrico DILUVIO (20 litros) (resistencia de acero)",
-    "price": 13500
+    "price": 14000
   },
   {
     "id": 36,
@@ -257,12 +267,12 @@
   {
     "id": 37,
     "productName": "Candado 30mm 3 llaves hierro (JDPD1450) (Jadever)",
-    "price": 5900
+    "price": 6100
   },
   {
     "id": 38,
     "productName": "Candado 50mm 3 llaves hierro (JDPD1450) (Jadever)",
-    "price": 11500
+    "price": 11891
   },
   {
     "id": 39,
@@ -307,22 +317,22 @@
   {
     "id": 50,
     "productName": "Destornillador Buscapolo 250v 3x140mm (Jadever)",
-    "price": 1800
+    "price": 1861
   },
   {
     "id": 51,
     "productName": "Destornilladores Chicos (plano/phillips) (Jadever)",
-    "price": 1700
+    "price": 1757
   },
   {
     "id": 52,
     "productName": "Destornilladores Grandes (plano/phillips) (Jadever)",
-    "price": 2800
+    "price": 2895
   },
   {
     "id": 53,
     "productName": "Destornilladores Medianos (plano/phillips) (Jadever)",
-    "price": 2600
+    "price": 2688
   },
   {
     "id": 54,
@@ -332,27 +342,27 @@
   {
     "id": 55,
     "productName": "Driver para panel LED 12w (KING)",
-    "price": 1700
+    "price": 1756
   },
   {
     "id": 56,
     "productName": "Driver para panel LED 12w (Macroled)",
-    "price": 5000
+    "price": 5200
   },
   {
     "id": 57,
     "productName": "Driver para panel LED 18w (KING)",
-    "price": 1900
+    "price": 1962
   },
   {
     "id": 58,
     "productName": "Driver para panel LED 18w (Macroled)",
-    "price": 5800
+    "price": 6000
   },
   {
     "id": 59,
     "productName": "Driver para panel LED 24w (Macroled)",
-    "price": 6300
+    "price": 6500
   },
   {
     "id": 60,
@@ -442,7 +452,7 @@
   {
     "id": 77,
     "productName": "Fotocélula 1200w 6A - MACROLED",
-    "price": 8500
+    "price": 8800
   },
   {
     "id": 78,
@@ -492,17 +502,17 @@
   {
     "id": 88,
     "productName": "Juego Kit 4 destornilladores (JDSS2204) (Jadever)",
-    "price": 8000
+    "price": 8272
   },
   {
     "id": 89,
     "productName": "Juego Kit 6 destornilladores (JDSS1206) (mango ergonómico) (Jadever)",
-    "price": 13700
+    "price": 14165
   },
   {
     "id": 90,
     "productName": "Kit puntas destornillador 12 piezas (JDSS1612) (Jadever)",
-    "price": 6900
+    "price": 7134
   },
   {
     "id": 91,
@@ -517,27 +527,27 @@
   {
     "id": 93,
     "productName": "Lámpara Dicroica LED 5w (MACROLED) (Fría/Cálida)",
-    "price": 1500
+    "price": 1539
   },
   {
     "id": 94,
     "productName": "Lámpara Dicroica LED 7w (MACROLED) (Fría/Cálida)",
-    "price": 2000
+    "price": 2052
   },
   {
     "id": 95,
     "productName": "Lámpara FILAMENTO 3w (AMBAR) (Cálida) (E27) (MACROLED)",
-    "price": 5000
+    "price": 5300
   },
   {
     "id": 96,
     "productName": "Lámpara FILAMENTO 4w (Cálida) (Cálida) (E14) (MACROLED)",
-    "price": 3000
+    "price": 3078
   },
   {
     "id": 97,
     "productName": "Lámpara FILAMENTO 5w (AMBAR) (Cálida) (E27) (MACROLED)",
-    "price": 8500
+    "price": 8721
   },
   {
     "id": 98,
@@ -552,7 +562,7 @@
   {
     "id": 100,
     "productName": "Lámpara LED 14w / 15w (KING)",
-    "price": 1500
+    "price": 1549
   },
   {
     "id": 101,
@@ -562,62 +572,62 @@
   {
     "id": 102,
     "productName": "Lámpara LED (Bulbo A60) 6,5w / 7w (KING)",
-    "price": 1000
+    "price": 1033
   },
   {
     "id": 103,
     "productName": "Lámpara LED (Bulbo A60) 6,5w / 7w (MACROLED) (Fría/Cálida)",
-    "price": 1200
+    "price": 1231
   },
   {
     "id": 104,
     "productName": "Lámpara LED (galponera) 60w (MACROLED) (Fría/Cálida) (E27)",
-    "price": 17399.2
+    "price": 17800
   },
   {
     "id": 105,
     "productName": "Lámpara LED (Bulbo A60) 9w / 9,5w / 10w (KING)",
-    "price": 1100
+    "price": 1136
   },
   {
     "id": 106,
     "productName": "Lámpara LED (Bulbo A60) 9W / 9,5w / 10w (Sol de noche) / (LEDVANCE) / (MACROLED)",
-    "price": 1400
+    "price": 1436
   },
   {
     "id": 108,
     "productName": "Lámpara LED (galponera) 19w / 20w (KING)",
-    "price": 2800
+    "price": 2892
   },
   {
     "id": 109,
     "productName": "Lámpara LED (galponera) 28w / 30w (KING)",
-    "price": 4900
+    "price": 5061
   },
   {
     "id": 110,
     "productName": "Lámpara LED (galponera) 28w / 30w (MACROLED)",
-    "price": 5500
+    "price": 5643
   },
   {
     "id": 111,
     "productName": "Lámpara LED (galponera) 38w / 40w (MACROLED)",
-    "price": 7800
+    "price": 8002
   },
   {
     "id": 112,
     "productName": "Lámpara LED (galponera) 48w / 50w (MACROLED)",
-    "price": 10900
+    "price": 11183
   },
   {
     "id": 113,
     "productName": "Lámpara LED dicróica 5w (KING) (Fría/Cálida)",
-    "price": 1300
+    "price": 1342
   },
   {
     "id": 114,
     "productName": "Lámpara LED dicróica 7w (KING) (Fría/Cálida)",
-    "price": 1400
+    "price": 1446
   },
   {
     "id": 115,
@@ -657,17 +667,17 @@
   {
     "id": 122,
     "productName": "Machete acero al carbono 10\" (Jadever)",
-    "price": 7900
+    "price": 8168
   },
   {
     "id": 123,
     "productName": "Machete acero al carbono 20\" (Jadever)",
-    "price": 9900
+    "price": 10236
   },
   {
     "id": 124,
     "productName": "Martillo 300g (JDHM1303) (Jadever)",
-    "price": 9500
+    "price": 9823
   },
   {
     "id": 125,
@@ -682,12 +692,12 @@
   {
     "id": 127,
     "productName": "Panel plafón LED 12w (Circular) (KING) (Fría/Cálida)",
-    "price": 6500
+    "price": 6714
   },
   {
     "id": 128,
     "productName": "Panel plafón LED 18w (Circular) (KING) (Fría/Cálida)",
-    "price": 8500
+    "price": 8780
   },
   {
     "id": 129,
@@ -697,17 +707,17 @@
   {
     "id": 130,
     "productName": "Panel plafón LED 24w (Circular) (KING) (Fría/Cálida)",
-    "price": 13500
+    "price": 13945
   },
   {
     "id": 131,
     "productName": "Panel plafón LED 6w (Circular) (KING) (Fría/Cálida)",
-    "price": 4500
+    "price": 4648
   },
   {
     "id": 132,
     "productName": "Panel plafón LED 6w (Circular) (MACROLED) (Fría/Cálida)",
-    "price": 6500
+    "price": 6669
   },
   {
     "id": 133,
@@ -777,12 +787,12 @@
   {
     "id": 146,
     "productName": "Pinceles 50mm (Jadever)",
-    "price": 1900
+    "price": 1964
   },
   {
     "id": 147,
     "productName": "Pinceles 75mm (Jadever)",
-    "price": 3300
+    "price": 3412
   },
   {
     "id": 148,
@@ -797,7 +807,7 @@
   {
     "id": 150,
     "productName": "Pinza de punta larga 200mm (8\") mango ergonómico (Jadever)",
-    "price": 8900
+    "price": 9202
   },
   {
     "id": 151,
@@ -807,12 +817,12 @@
   {
     "id": 152,
     "productName": "Pinza pelacables 215mm (8,5\") (Jadever)",
-    "price": 14000
+    "price": 14476
   },
   {
     "id": 153,
     "productName": "Pinza universal 180mm (7\") mango ergonómico (Jadever)",
-    "price": 8900
+    "price": 9202
   },
   {
     "id": 154,
@@ -912,27 +922,27 @@
   {
     "id": 173,
     "productName": "Reflector LED 10 W (Luz Fría)(Candela / KING)",
-    "price": 4500
+    "price": 4648
   },
   {
     "id": 174,
     "productName": "Reflector LED 20 W (Luz Fría) (Candela / KING)",
-    "price": 6900
+    "price": 7127
   },
   {
     "id": 175,
     "productName": "Reflector LED 30 W (Luz Fría) (Candela / KING)",
-    "price": 7900
+    "price": 8160
   },
   {
     "id": 176,
     "productName": "Reflector LED 30w (Cuadrado) (MACROLED) (Fría/Cálida)",
-    "price": 22000
+    "price": 22572
   },
   {
     "id": 177,
     "productName": "Reflector LED 50 W (Luz Fría) (Candela / KING)",
-    "price": 11900
+    "price": 12292
   },
   {
     "id": 178,
@@ -1087,7 +1097,7 @@
   {
     "id": 209,
     "productName": "Tortuga oval LED 12w (Fría/Cálida) (MACROLED)",
-    "price": 14500
+    "price": 14877
   },
   {
     "id": 210,
@@ -1122,17 +1132,17 @@
   {
     "id": 216,
     "productName": "Tubo LED 18W (Macroled) (Fría/Cálida) (120cm)",
-    "price": 3300
+    "price": 3385
   },
   {
     "id": 217,
     "productName": "Tubo LED 9W (Macroled) (Fría/Cálida) (60cm)",
-    "price": 2100
+    "price": 2154
   },
   {
     "id": 218,
     "productName": "Unión/conector de chapa 1\" (unidad)",
-    "price": 500
+    "price": 562
   },
   {
     "id": 219,
@@ -1142,7 +1152,7 @@
   {
     "id": 220,
     "productName": "Unión/conector de chapa 7/8\" (unidad)",
-    "price": 400
+    "price": 446
   },
   {
     "id": 221,
@@ -1232,12 +1242,12 @@
   {
     "id": 238,
     "productName": "Lámpara LED (Bulbo A60) 14w / 15w (MACROLED / LEDVANCE) (Fría/Cálida)",
-    "price": 1800
+    "price": 1846
   },
   {
     "id": 240,
     "productName": "Lámpara LED 1,8w (E14) (Heladera) (MACROLED) (Cálida/Fría)",
-    "price": 2900
+    "price": 2975
   },
   {
     "id": 241,
@@ -1262,7 +1272,7 @@
   {
     "id": 245,
     "productName": "Lámpara LED (G9) 4,5w (MACROLED)",
-    "price": 2900
+    "price": 2975
   },
   {
     "id": 246,
@@ -1316,7 +1326,7 @@
   },
   {
     "id": 256,
-    "productName": "Cinta aisladora de 5 metros (TACSA - VINI TAPE - INTECK)",
+    "productName": "Cinta aisladora de 5 metros (TACSA - VINI TAPE)",
     "price": 600
   },
   {
