@@ -1,5 +1,15 @@
 [
   {
+    "id": 1200,
+    "productName": "Batería - Pila 9v (Eveready)",
+    "price": 4300
+  },
+  {
+    "id": 1190,
+    "productName": "Toma exterior 20A (SOMA)",
+    "price": 5200
+  },
+  {
     "id": 1180,
     "productName": "Cinta aisladora de 10 metros (INTECK)",
     "price": 1200
@@ -762,7 +772,7 @@
   {
     "id": 141,
     "productName": "Pilas AA | AAA (Energizer)",
-    "price": 900
+    "price": 1000
   },
   {
     "id": 142,
