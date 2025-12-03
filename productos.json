@@ -1,5 +1,10 @@
 [
   {
+    "id": 1210,
+    "productName": "Panel plafón LED 18w (Cuadrado) (PHILLIPS) (Fría/Cálida)",
+    "price": 19000
+  },
+  {
     "id": 1200,
     "productName": "Batería - Pila 9v (Eveready)",
     "price": 4300
@@ -152,7 +157,7 @@
   {
     "id": 12,
     "productName": "Cable de alimentación calefón eléctrico 2 metros (Indelplas)",
-    "price": 5900
+    "price": 6500
   },
   {
     "id": 13,
