@@ -71,8 +71,8 @@
   },
   {
     "id": 1080,
-    "productName": "Lámpara LED bulbón 38w / 40w (KING)",
-    "price": 7127
+    "productName": "Lámpara LED (galponera) 38w / 40w (KING)",
+    "price": 6500
   },
   {
     "id": 1070,
@@ -622,22 +622,22 @@
   {
     "id": 109,
     "productName": "Lámpara LED (galponera) 28w / 30w (KING)",
-    "price": 5061
+    "price": 4500
   },
   {
     "id": 110,
     "productName": "Lámpara LED (galponera) 28w / 30w (MACROLED)",
-    "price": 5643
+    "price": 5000
   },
   {
     "id": 111,
     "productName": "Lámpara LED (galponera) 38w / 40w (MACROLED)",
-    "price": 8002
+    "price": 7200
   },
   {
     "id": 112,
     "productName": "Lámpara LED (galponera) 48w / 50w (MACROLED)",
-    "price": 11183
+    "price": 10000
   },
   {
     "id": 113,
