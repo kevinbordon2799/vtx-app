@@ -1,5 +1,15 @@
 [
   {
+    "id": 1240,
+    "productName": "Lámpara LED 12w - (Only Energy)",
+    "price": 1500
+  },
+  {
+    "id": 1230,
+    "productName": "Lámpara LED (galponera) 20w (Phillips)",
+    "price": 7500
+  },
+  {
     "id": 1220,
     "productName": "Térmica bipolar 50A (CHINT)",
     "price": 12000
@@ -972,7 +982,7 @@
   {
     "id": 180,
     "productName": "Serie 100 luces navidad/navideñas",
-    "price": 5500
+    "price": 5000
   },
   {
     "id": 181,
