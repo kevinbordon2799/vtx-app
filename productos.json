@@ -1,5 +1,10 @@
 [
   {
+    "id": 1050,
+    "productName": "Buscapolo inductivo - Detector de voltaje/tensión (LUXOM)",
+    "price": 4700
+  },
+  {
     "id": 1240,
     "productName": "Lámpara LED 12w - (Only Energy)",
     "price": 1500
@@ -347,7 +352,7 @@
   {
     "id": 50,
     "productName": "Destornillador Buscapolo 250v 3x140mm (Jadever)",
-    "price": 1861
+    "price": 1900
   },
   {
     "id": 51,
@@ -792,7 +797,7 @@
   {
     "id": 141,
     "productName": "Pilas AA | AAA (Energizer)",
-    "price": 1000
+    "price": 1100
   },
   {
     "id": 142,
