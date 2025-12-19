@@ -62,7 +62,7 @@
   {
     "id": 1130,
     "productName": "Ficha/Interruptor velador (blanco/negro) (Amado Elec)",
-    "price": 1300
+    "price": 1400
   },
   {
     "id": 1120,
@@ -88,11 +88,6 @@
     "id": 1080,
     "productName": "Lámpara LED (galponera) 38w / 40w (KING)",
     "price": 6500
-  },
-  {
-    "id": 1070,
-    "productName": "Destornillador Buscapolo 250v 4x190mm (Jadever)",
-    "price": 2585
   },
   {
     "id": 1060,
@@ -147,7 +142,7 @@
   {
     "id": 5,
     "productName": "Adaptador común 3 patas a 2 patas (LEDs GO)",
-    "price": 700
+    "price": 800
   },
   {
     "id": 6,
@@ -167,7 +162,7 @@
   {
     "id": 9,
     "productName": "Cable de alimentación (Tipo 8)",
-    "price": 2800
+    "price": 2900
   },
   {
     "id": 10,
@@ -267,12 +262,12 @@
   {
     "id": 30,
     "productName": "Caja para térmicas 4 bocas (exterior)",
-    "price": 1900
+    "price": 2000
   },
   {
     "id": 31,
     "productName": "Caja para térmicas 4 bocas (pilar)",
-    "price": 5200
+    "price": 5500
   },
   {
     "id": 32,
@@ -431,8 +426,8 @@
   },
   {
     "id": 66,
-    "productName": "Ficha macho 10A (línea IH3) (Amado Elec)",
-    "price": 1300
+    "productName": "Ficha macho 10A (Amado Elec / Richi ORIGINAL)",
+    "price": 1500
   },
   {
     "id": 67,
@@ -462,12 +457,12 @@
   {
     "id": 72,
     "productName": "Portalámpara Florón curvo/receptáculo",
-    "price": 800
+    "price": 900
   },
   {
     "id": 73,
     "productName": "Portalámpara Florón grande recto",
-    "price": 1200
+    "price": 1300
   },
   {
     "id": 74,
@@ -797,7 +792,7 @@
   {
     "id": 141,
     "productName": "Pilas AA | AAA (Energizer)",
-    "price": 1100
+    "price": 1000
   },
   {
     "id": 142,
@@ -872,7 +867,7 @@
   {
     "id": 156,
     "productName": "Portalámpara colgante (blanco / negro)",
-    "price": 6500
+    "price": 7000
   },
   {
     "id": 157,
@@ -887,7 +882,7 @@
   {
     "id": 159,
     "productName": "Portalámparas 3 partes / 3 piezas",
-    "price": 700
+    "price": 800
   },
   {
     "id": 160,
@@ -952,7 +947,7 @@
   {
     "id": 172,
     "productName": "Raqueta mata moscas y mosquitos USB",
-    "price": 8900
+    "price": 9000
   },
   {
     "id": 173,
@@ -1117,32 +1112,32 @@
   {
     "id": 206,
     "productName": "Tornillos dorados (kevin)",
-    "price": 20
+    "price": 25
   },
   {
     "id": 207,
     "productName": "Tornillos Drywall 8x2 Fosfatizado Negro (para tarugos/tacos del 8)",
-    "price": 60
+    "price": 75
   },
   {
     "id": 208,
     "productName": "Tornillos negros (kevin)",
-    "price": 20
+    "price": 25
   },
   {
     "id": 209,
     "productName": "Tortuga oval LED 12w (Fría/Cálida) (MACROLED)",
-    "price": 14877
+    "price": 15000
   },
   {
     "id": 210,
     "productName": "Tortuga PVC ovalada (con portalámpara)",
-    "price": 5300
+    "price": 5500
   },
   {
     "id": 211,
     "productName": "Tortuga vidrio redonda (color blanco) (con portalámpara)",
-    "price": 9400
+    "price": 9500
   },
   {
     "id": 212,
@@ -1167,12 +1162,12 @@
   {
     "id": 216,
     "productName": "Tubo LED 18W (Macroled) (Fría/Cálida) (120cm)",
-    "price": 3300
+    "price": 3500
   },
   {
     "id": 217,
     "productName": "Tubo LED 9W (Macroled) (Fría/Cálida) (60cm)",
-    "price": 2300
+    "price": 2500
   },
   {
     "id": 218,
@@ -1232,7 +1227,7 @@
   {
     "id": 229,
     "productName": "Ficha macho / hembra 10a bipolar (patas redondas) (LEDs GO)",
-    "price": 600
+    "price": 700
   },
   {
     "id": 230,
@@ -1252,7 +1247,7 @@
   {
     "id": 233,
     "productName": "Adaptador ficha americana",
-    "price": 800
+    "price": 1000
   },
   {
     "id": 234,
@@ -1292,7 +1287,7 @@
   {
     "id": 242,
     "productName": "Canilla plástica para lavatorio PVC",
-    "price": 2900
+    "price": 3000
   },
   {
     "id": 243,
@@ -1317,7 +1312,7 @@
   {
     "id": 247,
     "productName": "Tarugos 8 / Taco Fischer 8",
-    "price": 20
+    "price": 25
   },
   {
     "id": 248,
@@ -1357,7 +1352,7 @@
   {
     "id": 255,
     "productName": "Cinta aisladora de 20 metros (TACSA - VINI - TAPE)",
-    "price": 1600
+    "price": 1700
   },
   {
     "id": 256,
