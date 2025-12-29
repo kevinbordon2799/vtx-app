@@ -682,12 +682,12 @@
   {
     "id": 119,
     "productName": "Liston para tubo LED (120cm)",
-    "price": 4700
+    "price": 5500
   },
   {
     "id": 120,
     "productName": "Liston para tubo LED (60cm)",
-    "price": 3400
+    "price": 4000
   },
   {
     "id": 121,
@@ -997,7 +997,7 @@
   {
     "id": 183,
     "productName": "Spot tulipa simple",
-    "price": 6900
+    "price": 7000
   },
   {
     "id": 184,
@@ -1155,19 +1155,14 @@
     "price": 0
   },
   {
-    "id": 215,
-    "productName": "Tubo LED 16W (Phillips) (Fría/Cálida) (120cm)",
-    "price": 3500
-  },
-  {
     "id": 216,
     "productName": "Tubo LED 18W (Macroled) (Fría/Cálida) (120cm)",
-    "price": 3500
+    "price": 4000
   },
   {
     "id": 217,
     "productName": "Tubo LED 9W (Macroled) (Fría/Cálida) (60cm)",
-    "price": 2500
+    "price": 3000
   },
   {
     "id": 218,
