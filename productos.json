@@ -51,8 +51,8 @@
   },
   {
     "id": 1150,
-    "productName": "Disco de corte 115mm (LUSQTOFF) (OFERTA 5 o más) (sólo efectivo / transf)",
-    "price": 580
+    "productName": "Disco de corte 115mm (LUSQTOFF) (OFERTA 10 o más) (sólo efectivo / transf)",
+    "price": 650
   },
   {
     "id": 1140,
@@ -97,7 +97,7 @@
   {
     "id": 1050,
     "productName": "Adaptador doble",
-    "price": 1800
+    "price": 2000
   },
   {
     "id": 1040,
@@ -122,7 +122,7 @@
   {
     "id": 1000,
     "productName": "Disco de corte 115mm (LUSQTOFF)",
-    "price": 700
+    "price": 800
   },
   {
     "id": 2,
@@ -142,12 +142,12 @@
   {
     "id": 5,
     "productName": "Adaptador común 3 patas a 2 patas (LEDs GO)",
-    "price": 800
+    "price": 1000
   },
   {
     "id": 6,
     "productName": "Adaptador triple",
-    "price": 2000
+    "price": 2500
   },
   {
     "id": 7,
@@ -1262,7 +1262,7 @@
   {
     "id": 237,
     "productName": "Ficha macho lateral 10A",
-    "price": 600
+    "price": 800
   },
   {
     "id": 238,
@@ -1422,7 +1422,7 @@
   {
     "id": 271,
     "productName": "Disco de corte 115mm (DOBLE A|BOSCH)",
-    "price": 700
+    "price": 800
   },
   {
     "id": 272,
