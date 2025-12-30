@@ -197,7 +197,7 @@
   {
     "id": 17,
     "productName": "Caja 10x10 embutir (CHAPA)",
-    "price": 800
+    "price": 1000
   },
   {
     "id": 18,
@@ -1022,7 +1022,7 @@
   {
     "id": 188,
     "productName": "Tapa de inspección para jabalina PVC 10x10",
-    "price": 900
+    "price": 1300
   },
   {
     "id": 189,
@@ -1167,7 +1167,7 @@
   {
     "id": 218,
     "productName": "Unión/conector de chapa 1\" (unidad)",
-    "price": 562
+    "price": 600
   },
   {
     "id": 219,
@@ -1177,7 +1177,7 @@
   {
     "id": 220,
     "productName": "Unión/conector de chapa 7/8\" (unidad)",
-    "price": 446
+    "price": 500
   },
   {
     "id": 221,
@@ -1197,17 +1197,17 @@
   {
     "id": 224,
     "productName": "Capacitores (1,5uf) 450v (C. Alterna)",
-    "price": 3200
+    "price": 3300
   },
   {
     "id": 225,
     "productName": "Capacitores (2,5uf) 450v (C. Alterna)",
-    "price": 3300
+    "price": 3400
   },
   {
     "id": 226,
     "productName": "Capacitores (3uf) (4uf) 450v (C. Alterna)",
-    "price": 3600
+    "price": 3700
   },
   {
     "id": 227,
@@ -1237,7 +1237,7 @@
   {
     "id": 232,
     "productName": "Multímetro/Tester digital básico - (BAROVO)",
-    "price": 6900
+    "price": 7000
   },
   {
     "id": 233,
@@ -1277,7 +1277,7 @@
   {
     "id": 241,
     "productName": "Lubricante HD440",
-    "price": 4000
+    "price": 4300
   },
   {
     "id": 242,
@@ -1317,7 +1317,7 @@
   {
     "id": 249,
     "productName": "Caño pilar 1 - 1/4\"",
-    "price": 33000
+    "price": 35000
   },
   {
     "id": 250,
@@ -1432,17 +1432,12 @@
   {
     "id": 273,
     "productName": "Disco de corte de pared (ENERGY) (segmentado)",
-    "price": 4900
+    "price": 5000
   },
   {
     "id": 274,
     "productName": "Disco de desbaste 115mm (DOBLE A)",
-    "price": 1300
-  },
-  {
-    "id": 275,
-    "productName": "Disco flap 115mm (HAMILTON / DOBLE A)",
-    "price": 1700
+    "price": 1500
   },
   {
     "id": 276,
@@ -1457,7 +1452,7 @@
   {
     "id": 278,
     "productName": "Disyuntor diferencial bipolar 40A (Sica)",
-    "price": 33000
+    "price": 34000
   },
   {
     "id": 279,
