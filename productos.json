@@ -1,5 +1,100 @@
 [
   {
+    "id": 1580,
+    "productName": "Toma doble (20A) (embutir) (Jeluz Platinum)",
+    "price": 4000
+  },
+  {
+    "id": 1570,
+    "productName": "1 toma 20A (embutir) (Jeluz Platinum)",
+    "price": 2600
+  },
+  {
+    "id": 1560,
+    "productName": "1 toma 10A (embutir) (Jeluz Platinum)",
+    "price": 2000
+  },
+  {
+    "id": 1550,
+    "productName":"2 toma + 1 punto común (embutir) (Jeluz Platinum)",
+    "price": 3600
+  },
+  {
+    "id": 1540,
+    "productName": "2 puntos comunes + 1 toma (embutir) (Jeluz Platinum)",
+    "price": 3600
+  },
+  {
+    "id": 1530,
+    "productName": "Punto y toma (embutir) (Jeluz Platinum)",
+    "price": 2800
+  },
+  {
+    "id": 1520,
+    "productName": "Toma doble (embutir) (Jeluz Platinum)",
+    "price": 2800
+  },
+  {
+    "id": 1510,
+    "productName": "Tapa blanca para bastidor mignon (Jeluz Platinum)",
+    "price": 500
+  },
+  {
+    "id": 1500,
+    "productName": "Bastidor oculto mignon 5x5 (Jeluz Platinum)",
+    "price": 400
+  },
+  {
+    "id": 1490,
+    "productName": "Tapa bastidor (Jeluz Mito)",
+    "price": 700
+  },
+  {
+    "id": 1480,
+    "productName": "Bastidor oculto 5x10 (Jeluz Platinum)",
+    "price": 400
+  },
+  {
+    "id": 1470,
+    "productName": "Tapa blanca para bastidor (Jeluz Platinum)",
+    "price": 500
+  },
+  {
+    "id": 1460,
+    "productName": "Módulo TV (Jeluz Platinum",
+    "price": 1500
+  },
+  {
+    "id": 1450,
+    "productName": "Módulo pulsador/timbre (Jeluz Platinum)",
+    "price": 1000
+  },
+  {
+    "id": 1440,
+    "productName": "Módulo punto combinado 10A (Jeluz Platinum)",
+    "price": 1000
+  },
+  {
+    "id": 1430,
+    "productName": "Módulo toma 20A (Jeluz Platinum)",
+    "price": 1500
+  },
+  {
+    "id": 1420,
+    "productName": "Módulo ciego (Jeluz Platinum)",
+    "price": 100
+  },
+  {
+    "id": 1410,
+    "productName": "Módulo punto común 10A (Jeluz Platinum)",
+    "price": 900
+  },
+  {
+    "id": 1400,
+    "productName": "Módulo toma 10A (Jeluz Platinum)",
+    "price": 900
+  },
+  {
     "id": 1390,
     "productName": "Caño corrugado 1\" (metro)",
     "price": 550
