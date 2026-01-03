@@ -1,5 +1,70 @@
 [
   {
+    "id": 1390,
+    "productName": "Caño corrugado 1\" (metro)",
+    "price": 550
+  },
+  {
+    "id": 1380,
+    "productName": "Caño corrugado 7/8\" (metro)",
+    "price": 400
+  },
+  {
+    "id": 1370,
+    "productName": "Caño corrugado 3/4\" (metro)",
+    "price": 350
+  },
+  {
+    "id": 1360,
+    "productName": "Caño corrugado 1\" (Rollo)",
+    "price": 11800
+  },
+  {
+    "id": 1350,
+    "productName": "Caño corrugado 7/8\" (Rollo)",
+    "price": 9400
+  },
+  {
+    "id": 1340,
+    "productName": "Caño corrugado 3/4\" (Rollo)",
+    "price": 7400
+  },
+  {
+    "id": 1330,
+    "productName":"Cable subterráneo 2 x 6mm (metro) (LEDs GO)",
+    "price": 4200
+  },
+  {
+    "id": 1320,
+    "productName": "Cable TPR / tipo taller 2 x 1,5mm (metro)",
+    "price": 1300
+  },
+  {
+    "id": 1310,
+    "productName":"Cable bipolar / paralelo 1,5mm (metro)",
+    "price": 650
+  },
+  {
+    "id": 1300,
+    "productName":"Cable unipolar 6mm (metro)",
+    "price": 1950
+  },
+  {
+    "id": 1290,
+    "productName":"Cable unipolar 4mm (metro)",
+    "price": 1350
+  },
+  {
+    "id": 1280,
+    "productName": "Cable unipolar 2,5mm (metro)",
+    "price": 750
+  },
+  {
+    "id": 1270,
+    "productName": "Cable unipolar 1,5mm (metro)",
+    "price": 500
+  },
+  {
     "id": 1260,
     "productName": "Florón (12cm diámetro) blanco/negro",
     "price": 200
@@ -102,7 +167,7 @@
   {
     "id": 1050,
     "productName": "Adaptador doble",
-    "price": 2000
+    "price": 2500
   },
   {
     "id": 1040,
@@ -152,7 +217,7 @@
   {
     "id": 6,
     "productName": "Adaptador triple",
-    "price": 2500
+    "price": 3000
   },
   {
     "id": 7,
@@ -177,22 +242,22 @@
   {
     "id": 13,
     "productName": "Cable canal 14x7",
-    "price": 1500
+    "price": 2000
   },
   {
     "id": 14,
     "productName": "Cable canal 18x21",
-    "price": 2900
+    "price": 3500
   },
   {
     "id": 15,
     "productName": "Cable canal 20x10",
-    "price": 1700
+    "price": 2500
   },
   {
     "id": 16,
     "productName": "Cable textil para plancha (bipolar)",
-    "price": 2000
+    "price": 5000
   },
   {
     "id": 17,
@@ -202,47 +267,47 @@
   {
     "id": 18,
     "productName": "Caja 10x10 embutir (PVC)",
-    "price": 522
+    "price": 700
   },
   {
     "id": 19,
     "productName": "Caja cable canal para bastidor / portabastidor",
-    "price": 800
+    "price": 1000
   },
   {
     "id": 20,
     "productName": "Caja de paso estanca 115x115x50 | 115x115x60",
-    "price": 2000
+    "price": 2500
   },
   {
     "id": 21,
     "productName": "Caja de paso estanca 115x115x80",
-    "price": 2500
+    "price": 3000
   },
   {
     "id": 22,
     "productName": "Caja de paso estanca 90x90x55",
-    "price": 1618.5
+    "price": 2000
   },
   {
     "id": 23,
     "productName": "Caja octogonal embutir (PVC)",
-    "price": 300
+    "price": 400
   },
   {
     "id": 24,
     "productName": "Caja rectangular embutir (PVC)",
-    "price": 300
+    "price": 400
   },
   {
     "id": 25,
     "productName": "Caja mignon embutir (chapa)",
-    "price": 400
+    "price": 500
   },
   {
     "id": 26,
     "productName": "Caja octogonal embutir (chapa)",
-    "price": 400
+    "price": 500
   },
   {
     "id": 27,
@@ -252,17 +317,17 @@
   {
     "id": 28,
     "productName": "Caja para térmicas 12 bocas (exterior)",
-    "price": 4900
+    "price": 7000
   },
   {
     "id": 29,
     "productName": "Caja para térmicas 2 bocas (exterior)",
-    "price": 1500
+    "price": 2000
   },
   {
     "id": 30,
     "productName": "Caja para térmicas 4 bocas (exterior)",
-    "price": 2000
+    "price": 3000
   },
   {
     "id": 31,
@@ -277,12 +342,12 @@
   {
     "id": 33,
     "productName": "Caja para térmicas 8 bocas (exterior)",
-    "price": 3700
+    "price": 5000
   },
   {
     "id": 34,
     "productName": "Caja rectangular embutir (chapa)",
-    "price": 400
+    "price": 500
   },
   {
     "id": 35,
@@ -1242,7 +1307,7 @@
   {
     "id": 234,
     "productName": "Asiento/Tapa para inodoro",
-    "price": 7200
+    "price": 10000
   },
   {
     "id": 235,
@@ -1287,7 +1352,7 @@
   {
     "id": 244,
     "productName": "Caja para medidor monofásica lisa",
-    "price": 15000
+    "price": 16000
   },
   {
     "id": 245,
@@ -1307,7 +1372,7 @@
   {
     "id": 248,
     "productName": "Antiparra / gafas de seguridad",
-    "price": 2500
+    "price": 4000
   },
   {
     "id": 249,
@@ -1362,7 +1427,7 @@
   {
     "id": 259,
     "productName": "Balde de albañil",
-    "price": 3300
+    "price": 4000
   },
   {
     "id": 260,
