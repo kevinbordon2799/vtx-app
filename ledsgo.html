@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Calculadora de Precios</title>
+
+  <!-- Tailwind -->
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen p-6">
+
+  <h1 class="text-2xl font-bold mb-6 text-center">
+    💸 Productos LEDs GO
+  </h1>
+
+  <div class="text-center mb-6">
+  <button
+    id="exportBtn"
+    class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg shadow"
+  >
+    📦 Exportar datos a PC
+  </button>
+</div>
+
+
+  <div id="productsContainer" class="grid gap-4 max-w-3xl mx-auto"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
