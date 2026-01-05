@@ -95,69 +95,14 @@
     "price": 900
   },
   {
-    "id": 1390,
-    "productName": "Caño corrugado 1\" (metro)",
-    "price": 550
-  },
-  {
-    "id": 1380,
-    "productName": "Caño corrugado 7/8\" (metro)",
-    "price": 400
-  },
-  {
-    "id": 1370,
-    "productName": "Caño corrugado 3/4\" (metro)",
-    "price": 350
-  },
-  {
-    "id": 1360,
-    "productName": "Caño corrugado 1\" (Rollo)",
-    "price": 11800
-  },
-  {
-    "id": 1350,
-    "productName": "Caño corrugado 7/8\" (Rollo)",
-    "price": 9400
-  },
-  {
-    "id": 1340,
-    "productName": "Caño corrugado 3/4\" (Rollo)",
-    "price": 7400
-  },
-  {
     "id": 1330,
     "productName":"Cable subterráneo 2 x 6mm (metro) (LEDs GO)",
     "price": 4200
   },
   {
-    "id": 1320,
-    "productName": "Cable TPR / tipo taller 2 x 1,5mm (metro)",
-    "price": 1300
-  },
-  {
     "id": 1310,
     "productName":"Cable bipolar / paralelo 1,5mm (metro)",
     "price": 650
-  },
-  {
-    "id": 1300,
-    "productName":"Cable unipolar 6mm (metro)",
-    "price": 1950
-  },
-  {
-    "id": 1290,
-    "productName":"Cable unipolar 4mm (metro)",
-    "price": 1350
-  },
-  {
-    "id": 1280,
-    "productName": "Cable unipolar 2,5mm (metro)",
-    "price": 750
-  },
-  {
-    "id": 1270,
-    "productName": "Cable unipolar 1,5mm (metro)",
-    "price": 500
   },
   {
     "id": 1260,
@@ -170,39 +115,9 @@
     "price": 4700
   },
   {
-    "id": 1240,
-    "productName": "Lámpara LED 12w - (Only Energy)",
-    "price": 1500
-  },
-  {
-    "id": 1230,
-    "productName": "Lámpara LED (galponera) 20w (Phillips)",
-    "price": 7500
-  },
-  {
-    "id": 1220,
-    "productName": "Térmica bipolar 50A (CHINT)",
-    "price": 12000
-  },
-  {
-    "id": 1210,
-    "productName": "Panel plafón LED 18w (Cuadrado) (PHILLIPS) (Fría/Cálida)",
-    "price": 19000
-  },
-  {
-    "id": 1200,
-    "productName": "Batería - Pila 9v (Eveready)",
-    "price": 4300
-  },
-  {
-    "id": 1190,
-    "productName": "Toma exterior 20A (SOMA)",
-    "price": 5200
-  },
-  {
     "id": 1180,
     "productName": "Cinta aisladora de 10 metros (INTECK)",
-    "price": 1200
+    "price": 1500
   },
   {
     "id": 1170,
@@ -407,7 +322,7 @@
   {
     "id": 27,
     "productName": "Caja para térmicas 12 bocas (embutir)",
-    "price": 9362.6
+    "price": 10500
   },
   {
     "id": 28,
@@ -432,7 +347,7 @@
   {
     "id": 32,
     "productName": "Caja para térmicas 8 bocas (embutir)",
-    "price": 7052.5
+    "price": 8000
   },
   {
     "id": 33,
@@ -447,7 +362,7 @@
   {
     "id": 35,
     "productName": "Calefón calentador eléctrico DILUVIO (20 litros) (resistencia de acero)",
-    "price": 14000
+    "price": 15000
   },
   {
     "id": 36,
@@ -467,12 +382,12 @@
   {
     "id": 39,
     "productName": "Canilla doble PVC (conexión lavarropa)",
-    "price": 1900
+    "price": 2500
   },
   {
     "id": 40,
     "productName": "Canilla plástica 1/2\" PVC",
-    "price": 1000
+    "price": 1500
   },
   {
     "id": 42,
@@ -487,7 +402,7 @@
   {
     "id": 44,
     "productName": "Cinta pasacable 10 metros (ACERO)",
-    "price": 5500
+    "price": 6000
   },
   {
     "id": 47,
@@ -1437,7 +1352,7 @@
   {
     "id": 242,
     "productName": "Canilla plástica para lavatorio PVC",
-    "price": 3000
+    "price": 4500
   },
   {
     "id": 243,
@@ -1487,12 +1402,12 @@
   {
     "id": 252,
     "productName": "Cápsula toma / Toma capsulado 10A (MIG)",
-    "price": 3800
+    "price": 4500
   },
   {
     "id": 253,
     "productName": "Cinta aisladora de 10 metros (LUXOM)",
-    "price": 800
+    "price": 1000
   },
   {
     "id": 254,
@@ -1502,7 +1417,7 @@
   {
     "id": 255,
     "productName": "Cinta aisladora de 20 metros (TACSA - VINI - TAPE)",
-    "price": 1700
+    "price": 2000
   },
   {
     "id": 256,
@@ -1512,7 +1427,7 @@
   {
     "id": 257,
     "productName": "Cinta teflón 1/2\" (10 metros)",
-    "price": 500
+    "price": 1000
   },
   {
     "id": 258,
