@@ -1,4 +1,9 @@
 [
+  {
+    "id": 1590,
+    "productName":"Lámpara LED (Bulbo A60) 5w (MACROLED / LEDVANCE) (Fría/Cálida)",
+    "price": 1000
+  },
    {
     "id": 1580,
     "productName": "Toma doble (20A) (embutir) (Jeluz Platinum)",
@@ -198,7 +203,7 @@
   {
     "id": 1190,
     "productName": "Toma exterior 20A (SOMA)",
-    "price": 5200
+    "price": 5500
   },
   {
     "id": 1180,
@@ -757,8 +762,8 @@
   },
   {
     "id": 101,
-    "productName": "Lámpara LED 5w (Sica)",
-    "price": 900
+    "productName": "Lámpara LED 5w (Sica) (cálida)",
+    "price": 1200
   },
   {
     "id": 102,
