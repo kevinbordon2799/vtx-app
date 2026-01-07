@@ -172,7 +172,7 @@
   {
     "id": 1260,
     "productName": "Florón (12cm diámetro) blanco/negro",
-    "price": 200
+    "price": 500
   },
   {
     "id": 1250,
@@ -228,7 +228,7 @@
   {
     "id": 1150,
     "productName": "Disco de corte 115mm (LUSQTOFF) (OFERTA 10 o más) (sólo efectivo / transf)",
-    "price": 650
+    "price": 800
   },
   {
     "id": 1140,
@@ -238,7 +238,7 @@
   {
     "id": 1130,
     "productName": "Ficha/Interruptor velador (blanco/negro) (Amado Elec)",
-    "price": 1400
+    "price": 1500
   },
   {
     "id": 1120,
@@ -253,7 +253,7 @@
   {
     "id": 1100,
     "productName": "Disco flap 115mm (Jadever)",
-    "price": 1900
+    "price": 2500
   },
   {
     "id": 1090,
@@ -298,12 +298,12 @@
   {
     "id": 1000,
     "productName": "Disco de corte 115mm (LUSQTOFF)",
-    "price": 800
+    "price": 1000
   },
   {
     "id": 2,
     "productName": "Flotante Automático para Tanque - Metaplast",
-    "price": 8505
+    "price": 12000
   },
   {
     "id": 3,
@@ -438,7 +438,7 @@
   {
     "id": 31,
     "productName": "Caja para térmicas 4 bocas (pilar)",
-    "price": 5500
+    "price": 6500
   },
   {
     "id": 32,
@@ -536,11 +536,6 @@
     "price": 2688
   },
   {
-    "id": 54,
-    "productName": "Disco flap 115mm (LUXOM)",
-    "price": 1000
-  },
-  {
     "id": 55,
     "productName": "Driver para panel LED 12w (KING)",
     "price": 1756
@@ -578,7 +573,7 @@
   {
     "id": 62,
     "productName": "Ficha hembra 10A (simil KALOP | simil RICHI)",
-    "price": 1000
+    "price": 1500
   },
   {
     "id": 63,
@@ -598,7 +593,7 @@
   {
     "id": 66,
     "productName": "Ficha macho 10A (Amado Elec / Richi ORIGINAL)",
-    "price": 1500
+    "price": 2000
   },
   {
     "id": 67,
@@ -608,7 +603,7 @@
   {
     "id": 68,
     "productName": "Ficha macho 20A (20 ampéres) (ciocca)",
-    "price": 1500
+    "price": 2000
   },
   {
     "id": 69,
@@ -618,12 +613,12 @@
   {
     "id": 70,
     "productName": "Ficha macho velador - (blanco/negro)",
-    "price": 500
+    "price": 800
   },
   {
     "id": 71,
     "productName": "Ficha/Interruptor velador (blanco/negro)",
-    "price": 500
+    "price": 800
   },
   {
     "id": 72,
@@ -1388,7 +1383,7 @@
   {
     "id": 229,
     "productName": "Ficha macho / hembra 10a bipolar (patas redondas) (LEDs GO)",
-    "price": 800
+    "price": 1000
   },
   {
     "id": 230,
@@ -1428,7 +1423,7 @@
   {
     "id": 237,
     "productName": "Ficha macho lateral 10A",
-    "price": 800
+    "price": 1300
   },
   {
     "id": 238,
@@ -1598,12 +1593,12 @@
   {
     "id": 273,
     "productName": "Disco de corte de pared (ENERGY) (segmentado)",
-    "price": 5000
+    "price": 6000
   },
   {
     "id": 274,
     "productName": "Disco de desbaste 115mm (DOBLE A)",
-    "price": 1500
+    "price": 2300
   },
   {
     "id": 276,
