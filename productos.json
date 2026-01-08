@@ -6,10 +6,10 @@
   },
   {
     "id": 1590,
-    "productName":"Lámpara LED (Bulbo A60) 5w (MACROLED / LEDVANCE) (Fría/Cálida)",
+    "productName": "Lámpara LED (Bulbo A60) 5w (MACROLED / LEDVANCE) (Fría/Cálida)",
     "price": 1000
   },
-   {
+  {
     "id": 1580,
     "productName": "|Llave armada| Toma doble (20A) (embutir) (Jeluz Platinum)",
     "price": 4000
@@ -26,7 +26,7 @@
   },
   {
     "id": 1550,
-    "productName":"|Llave armada| 2 toma + 1 punto común (embutir) (Jeluz Platinum)",
+    "productName": "|Llave armada| 2 toma + 1 punto común (embutir) (Jeluz Platinum)",
     "price": 3600
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "id": 1330,
-    "productName":"Cable subterráneo 2 x 6mm (metro) (LEDs GO)",
+    "productName": "Cable subterráneo 2 x 6mm (metro) (LEDs GO)",
     "price": 4200
   },
   {
@@ -146,17 +146,17 @@
   },
   {
     "id": 1310,
-    "productName":"Cable bipolar / paralelo 1,5mm (metro)",
+    "productName": "Cable bipolar / paralelo 1,5mm (metro)",
     "price": 650
   },
   {
     "id": 1300,
-    "productName":"Cable unipolar 6mm (metro)",
+    "productName": "Cable unipolar 6mm (metro)",
     "price": 1950
   },
   {
     "id": 1290,
-    "productName":"Cable unipolar 4mm (metro)",
+    "productName": "Cable unipolar 4mm (metro)",
     "price": 1350
   },
   {
@@ -179,7 +179,6 @@
     "productName": "Buscapolo inductivo - Detector de voltaje/tensión (LUXOM)",
     "price": 5000
   },
-  
   {
     "id": 1240,
     "productName": "Lámpara LED 12w - (Only Energy)",
@@ -1053,7 +1052,7 @@
   {
     "id": 160,
     "productName": "Portalámparas cerámico",
-    "price": 1500
+    "price": "2000"
   },
   {
     "id": 161,
@@ -1258,7 +1257,7 @@
   {
     "id": 203,
     "productName": "Toma exterior de 20A (ciocca)",
-    "price": 2500
+    "price": "3000"
   },
   {
     "id": 204,
@@ -1628,7 +1627,7 @@
   {
     "id": 281,
     "productName": "Zócalo cerámico Gu10 (dicróica)",
-    "price": 800
+    "price": "1000"
   },
   {
     "id": 282,
@@ -1638,6 +1637,6 @@
   {
     "id": 283,
     "productName": "Zócalo flexible (para tubos LED)",
-    "price": 900
+    "price": "1000"
   }
 ]
