@@ -307,12 +307,12 @@
   {
     "id": 3,
     "productName": "Punto simple | Toma 10a simple (CHATO) (Jeluz exterior)",
-    "price": 1600
+    "price": "2000"
   },
   {
     "id": 4,
     "productName": "Punto y toma | Toma doble | doble punto (CHATO) (Jeluz exterior)",
-    "price": 3000
+    "price": "3300"
   },
   {
     "id": 5,
@@ -1102,12 +1102,12 @@
   {
     "id": 170,
     "productName": "Punto simple exterior (ciocca)",
-    "price": 1000
+    "price": "1500"
   },
   {
     "id": 171,
     "productName": "Punto y toma exterior 10A (ciocca)",
-    "price": 1500
+    "price": "2000"
   },
   {
     "id": 172,
@@ -1167,22 +1167,22 @@
   {
     "id": 184,
     "productName": "Tapa ciega chica octogonal",
-    "price": 200
+    "price": "300"
   },
   {
     "id": 185,
     "productName": "Tapa ciega chica rectangular",
-    "price": 200
+    "price": "300"
   },
   {
     "id": 186,
     "productName": "Tapa ciega grande cuadrada 10x10",
-    "price": 250
+    "price": "400"
   },
   {
     "id": 187,
     "productName": "Tapa ciega grande octogonal",
-    "price": 250
+    "price": "400"
   },
   {
     "id": 188,
@@ -1252,7 +1252,7 @@
   {
     "id": 202,
     "productName": "Toma doble exterior 10A (ciocca)",
-    "price": 1500
+    "price": "2000"
   },
   {
     "id": 203,
@@ -1267,7 +1267,7 @@
   {
     "id": 205,
     "productName": "Toma simple exterior 10A (ciocca)",
-    "price": 1000
+    "price": "1500"
   },
   {
     "id": 206,
@@ -1352,7 +1352,7 @@
   {
     "id": 223,
     "productName": "Tapa ciega para Caja Mignon",
-    "price": 200
+    "price": "300"
   },
   {
     "id": 224,
@@ -1392,7 +1392,7 @@
   {
     "id": 231,
     "productName": "Zapatilla sin cable (chica)",
-    "price": 1500
+    "price": "2000"
   },
   {
     "id": 232,
