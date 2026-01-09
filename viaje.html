@@ -1,224 +1,323 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
-  <meta charset="UTF-8" />
-  <title>Checklist de Viaje</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+    <meta charset="UTF-8" />
+    <title>Checklist de Viaje</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <style>
+        .bg-main {
+            background-color: #151517;
+            /* background-color: #151517; */
+        }
+
+        .bg-float {
+            /* background-color: rgb(235, 235, 235); */
+            background-color: #ffffff;
+        }
+
+        .shadow-float {
+            /* border: 1px solid rgb(231, 231, 231); */
+            box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+            border-radius: 1em;
+        }
+
+        input {
+            background-color: white !important;
+            color: #151517 !important;
+            border: 2px solid #cccccc !important;
+            border-radius: 0.7em;
+        }
+
+        input:focus {
+            border: 2px solid #494949 !important;
+        }
+
+        label {
+            color: #151517;
+        }
+
+        select {
+            background-color: white !important;
+            color: #151517 !important;
+            border: 2px solid #cccccc !important;
+            border-radius: 0.7em;
+        }
+
+        p,
+        h1,
+        h2,
+        h3 {
+            color: #151517 !important;
+        }
+    </style>
 </head>
 
-<body class="bg-zinc-900 text-white min-h-screen p-6">
+<body class="bg-gray-100 text-white min-h-screen p-4 sm:p-6 pb-20">
+    <header class="shadow-float bg-float w-full">
+        <h1 class="text-3xl text-center sm:text-3xl font-bold text-black py-10">
+            Checklist de viaje
+        </h1>
+    </header>
 
-  <h1 class="text-3xl font-bold mb-6">🧳 Checklist de Viaje</h1>
+    <div class="flex flex-col lg:flex-row gap-6 w-full max-w-[800px] mx-auto pt-10">
+        <!-- AGREGAR ITEM -->
+        <div class="shadow-float flex flex-col bg-float p-6 gap-3 w-full">
+            <p class="py-2 text-md text-center text-md font-bold">Agregar objeto</p>
 
-  <!-- AGREGAR ITEM -->
-  <div class="bg-zinc-800 p-4 rounded-xl mb-6 grid md:grid-cols-4 gap-3">
-    <input id="itemInput" placeholder="¿Qué tenés que llevar?"
-      class="px-3 py-2 rounded bg-zinc-700 outline-none col-span-2" />
+            <input id="itemInput" placeholder="¿Qué tenés que llevar?"
+                class="px-4 py-3 text-base bg-main outline-none sm:col-span-2" />
 
-    <select id="categoryInput"
-      class="px-3 py-2 rounded bg-zinc-700"></select>
-
-    <button onclick="addItem()"
-      class="bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded font-semibold">
-      Agregar
-    </button>
-  </div>
-
-  <!-- NUEVA CATEGORÍA -->
-  <div class="bg-zinc-800 p-4 rounded-xl mb-6 grid md:grid-cols-4 gap-3">
-    <input id="newCategoryName"
-      placeholder="Nueva categoría"
-      class="px-3 py-2 rounded bg-zinc-700 outline-none" />
-
-    <input id="newCategoryColor"
-      type="color"
-      class="h-10 rounded" />
-
-    <button onclick="addCategory()"
-      class="bg-purple-600 hover:bg-purple-700 px-4 py-2 rounded font-semibold md:col-span-2">
-      Crear categoría
-    </button>
-  </div>
-
-  <!-- FILTROS -->
-  <div class="flex flex-wrap gap-3 mb-6">
-    <select id="filterCategory" onchange="render()"
-      class="px-3 py-2 rounded bg-zinc-800">
-      <option value="all">Todas las categorías</option>
-    </select>
-
-    <label class="flex items-center gap-2 bg-zinc-800 px-3 py-2 rounded cursor-pointer">
-      <input type="checkbox" id="filterPending" onchange="render()">
-      Solo falta empacar
-    </label>
-  </div>
-
-  <!-- LISTA -->
-  <div id="list" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
-
-  <script>
-    const itemInput = document.getElementById("itemInput");
-    const categoryInput = document.getElementById("categoryInput");
-    const filterCategory = document.getElementById("filterCategory");
-    const filterPending = document.getElementById("filterPending");
-
-    let categories = JSON.parse(localStorage.getItem("categories")) || {
-      "Ropa": "#ec4899",
-      "Baño / Higiene": "#22c55e",
-      "Cocina": "#eab308"
-    };
-
-    let items = JSON.parse(localStorage.getItem("checklist")) || [];
-
-    function save() {
-      localStorage.setItem("checklist", JSON.stringify(items));
-      localStorage.setItem("categories", JSON.stringify(categories));
-    }
-
-    function updateCategorySelects() {
-      categoryInput.innerHTML = "";
-      filterCategory.innerHTML = `<option value="all">Todas las categorías</option>`;
-
-      Object.keys(categories).forEach(cat => {
-        categoryInput.innerHTML += `<option value="${cat}">${cat}</option>`;
-        filterCategory.innerHTML += `<option value="${cat}">${cat}</option>`;
-      });
-    }
-
-    function addCategory() {
-      const name = document.getElementById("newCategoryName").value.trim();
-      const color = document.getElementById("newCategoryColor").value;
-
-      if (!name) return alert("Poné un nombre");
-      if (categories[name]) return alert("Esa categoría ya existe");
-
-      categories[name] = color;
-      save();
-      updateCategorySelects();
-      render();
-
-      document.getElementById("newCategoryName").value = "";
-    }
-
-    function addItem() {
-      if (!itemInput.value.trim()) return;
-
-      items.push({
-        id: Date.now(),
-        text: itemInput.value,
-        category: categoryInput.value,
-        packed: false,
-        editing: false
-      });
-
-      itemInput.value = "";
-      save();
-      render();
-    }
-
-    function togglePacked(id) {
-      items = items.map(item =>
-        item.id === id ? { ...item, packed: !item.packed } : item
-      );
-      save();
-      render();
-    }
-
-    function toggleEdit(id) {
-      items = items.map(item =>
-        item.id === id ? { ...item, editing: !item.editing } : item
-      );
-      render();
-    }
-
-    function saveEdit(id) {
-      const text = document.getElementById(`edit-text-${id}`).value;
-      const category = document.getElementById(`edit-cat-${id}`).value;
-
-      items = items.map(item =>
-        item.id === id
-          ? { ...item, text, category, editing: false }
-          : item
-      );
-
-      save();
-      render();
-    }
-
-    function deleteItem(id) {
-      if (!confirm("¿Borrar este ítem?")) return;
-      items = items.filter(item => item.id !== id);
-      save();
-      render();
-    }
-
-    function render() {
-      const list = document.getElementById("list");
-      list.innerHTML = "";
-
-      let filtered = [...items];
-
-      if (filterCategory.value !== "all") {
-        filtered = filtered.filter(i => i.category === filterCategory.value);
-      }
-
-      if (filterPending.checked) {
-        filtered = filtered.filter(i => !i.packed);
-      }
-
-      filtered.forEach(item => {
-        const card = document.createElement("div");
-        card.className = "bg-zinc-800 p-4 rounded-xl border-l-4 flex flex-col gap-3";
-        card.style.borderColor = categories[item.category];
-
-        card.innerHTML = `
-          <div class="${item.editing ? "hidden" : ""}">
-            <h3 class="text-lg font-semibold">${item.text}</h3>
-            <span class="text-sm text-zinc-400">${item.category}</span>
-
-            <div class="flex gap-2 mt-4">
-              <button onclick="togglePacked(${item.id})"
-                class="flex-1 px-3 py-2 rounded ${item.packed ? "bg-green-600" : "bg-red-600"}">
-                ${item.packed ? "✅ Empacado" : "❌ Falta"}
-              </button>
-
-              <button onclick="toggleEdit(${item.id})"
-                class="px-3 py-2 rounded bg-yellow-600">✏️</button>
-
-              <button onclick="deleteItem(${item.id})"
-                class="px-3 py-2 rounded bg-zinc-700">🗑️</button>
-            </div>
-          </div>
-
-          <div class="${item.editing ? "" : "hidden"} flex flex-col gap-3">
-            <input id="edit-text-${item.id}"
-              class="px-3 py-2 rounded bg-zinc-700"
-              value="${item.text}" />
-
-            <select id="edit-cat-${item.id}"
-              class="px-3 py-2 rounded bg-zinc-700">
-              ${Object.keys(categories).map(cat =>
-                `<option value="${cat}" ${cat === item.category ? "selected" : ""}>${cat}</option>`
-              ).join("")}
+            <select id="categoryInput" class="px-4 py-3 text-base bg-main">
             </select>
 
-            <div class="flex gap-2">
-              <button onclick="saveEdit(${item.id})"
-                class="flex-1 bg-blue-600 px-3 py-2 rounded">Guardar</button>
+            <!-- <button onclick="addItem()"
+                class="bg-purple-800 text-sm hover:bg-purple-700 px-4 py-3 font-semibold w-full sm:col-span-2">
+                Agregar
+            </button> -->
 
-              <button onclick="toggleEdit(${item.id})"
-                class="flex-1 bg-zinc-700 px-3 py-2 rounded">Cancelar</button>
+            <div class="flex pt-4">
+                <button onclick="addItem()"
+                    class="bg-purple-200 text-purple-800 text-sm w-max rounded-md ml-auto mr-0 hover:bg-purple-300 px-4 py-3 font-semibold w-full sm:col-span-2">
+                    Agregar
+                </button>
+            </div>
+        </div>
+
+        <!-- NUEVA CATEGORÍA -->
+        <div class="shadow-float flex flex-col bg-float p-6 gap-3 w-full">
+            <p class="py-2 text-center text-md font-bold">Crear categoría</p>
+
+            <input id="newCategoryName" placeholder="Nueva categoría" class="px-4 py-3 bg-main outline-none" />
+
+            <div class="flex items-center justify-between">
+                <label for="newCategoryColor">Color de categoría:</label>
+                <input id="newCategoryColor" type="color" class="h-12" />
+            </div>
+
+            <div class="flex pt-4">
+                <button onclick="addCategory()"
+                    class="bg-purple-200 text-purple-800 text-sm w-max rounded-md ml-auto mr-0 hover:bg-purple-300 px-4 py-3 font-semibold w-full sm:col-span-2">
+                    Crear categoría
+                </button>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- FILTROS -->
+    <div class="pt-10">
+        <div class="flex flex-col p-6 sm:flex-row sm:items-center sm:justify-between gap-3 bg-float shadow-float">
+            <p class="py-2 text-center text-md font-bold md:font-lg">Filtros:</p>
+
+            <div class="flex flex-col gap-4 sm:flex-row">
+                <select id="filterCategory" onchange="render()" class="px-4 py-3 bg-main w-full sm:w-auto">
+                    <option value="all">Todas las categorías</option>
+                </select>
+
+                <label class="bg-gray-100 flex items-center gap-3 rounded-md px-4 py-3 cursor-pointer w-max sm:w-auto">
+                    <input type="checkbox" id="filterPending" class="w-5 h-5" onchange="render()">
+                    <span>
+                        Ver solo
+                        <span class="font-bold">"falta empacar"</span>
+                    </span>
+                </label>
+            </div>
+        </div>
+    </div>
+
+    <!-- LISTA -->
+    <div id="list" class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4 py-10">
+    </div>
+
+    <script>
+        const itemInput = document.getElementById("itemInput");
+        const categoryInput = document.getElementById("categoryInput");
+        const filterCategory = document.getElementById("filterCategory");
+        const filterPending = document.getElementById("filterPending");
+
+        let categories = JSON.parse(localStorage.getItem("categories")) || {
+            "Ropa": "#ec4899",
+            "Baño / Higiene": "#22c55e",
+            "Cocina": "#eab308"
+        };
+
+        let items = JSON.parse(localStorage.getItem("checklist")) || [];
+
+        function save() {
+            localStorage.setItem("checklist", JSON.stringify(items));
+            localStorage.setItem("categories", JSON.stringify(categories));
+        }
+
+        function updateCategorySelects() {
+            categoryInput.innerHTML = "";
+            filterCategory.innerHTML = `<option value="all">Todas las categorías</option>`;
+
+            Object.keys(categories).forEach(cat => {
+                categoryInput.innerHTML += `<option value="${cat}">${cat}</option>`;
+                filterCategory.innerHTML += `<option value="${cat}">${cat}</option>`;
+            });
+        }
+
+        function addCategory() {
+            const name = document.getElementById("newCategoryName").value.trim();
+            const color = document.getElementById("newCategoryColor").value;
+
+            if (!name) return alert("Poné un nombre");
+            if (categories[name]) return alert("Esa categoría ya existe");
+
+            categories[name] = color;
+            save();
+            updateCategorySelects();
+            render();
+
+            document.getElementById("newCategoryName").value = "";
+        }
+
+        function addItem() {
+            if (!itemInput.value.trim()) return;
+
+            items.push({
+                id: Date.now(),
+                text: itemInput.value,
+                category: categoryInput.value,
+                packed: false,
+                editing: false
+            });
+
+            itemInput.value = "";
+            save();
+            render();
+        }
+
+        function togglePacked(id) {
+            items = items.map(item =>
+                item.id === id ? { ...item, packed: !item.packed } : item
+            );
+            save();
+            render();
+        }
+
+        function toggleEdit(id) {
+            items = items.map(item =>
+                item.id === id ? { ...item, editing: !item.editing } : item
+            );
+            render();
+        }
+
+        function saveEdit(id) {
+            const text = document.getElementById(`edit-text-${id}`).value;
+            const category = document.getElementById(`edit-cat-${id}`).value;
+
+            items = items.map(item =>
+                item.id === id
+                    ? { ...item, text, category, editing: false }
+                    : item
+            );
+
+            save();
+            render();
+        }
+
+        function deleteItem(id) {
+            if (!confirm("¿Borrar este ítem?")) return;
+            items = items.filter(item => item.id !== id);
+            save();
+            render();
+        }
+
+        function render() {
+            const list = document.getElementById("list");
+            list.innerHTML = "";
+
+            let filtered = [...items];
+
+            if (filterCategory.value !== "all") {
+                filtered = filtered.filter(i => i.category === filterCategory.value);
+            }
+
+            if (filterPending.checked) {
+                filtered = filtered.filter(i => !i.packed);
+            }
+
+            filtered.forEach(item => {
+                const card = document.createElement("div");
+                card.className =
+                    "bg-float px-6 py-8 border-t-8 rounded-xl flex flex-col gap-4";
+                card.style.borderColor = categories[item.category];
+
+                card.innerHTML = `
+                <div class="${item.editing ? "hidden" : "flex flex-col gap-4"}">
+                    
+                    <div>
+                        <h3 class="text-2xl font-bold">${item.text}</h3>
+                        <span class="relative top-[-0.3rem] text-sm text-zinc-400">${item.category}</span>
+                    </div>
+                        
+
+                    <div class="flex justify-between">
+                        <button
+                            onclick="togglePacked(${item.id})"
+                            class="w-max flex px-3 py-2 rounded-md text-sm font-bold ${item.packed ? "text-green-600 bg-green-200" : "text-red-600 bg-red-200"}">
+                            ${item.packed ? "✅ Empacado" : "❌ Falta empacar"}
+                        </button>
+
+                        <div class="flex justify-end gap-2">
+                            <button
+                            onclick="toggleEdit(${item.id})"
+                            class="px-4 py-2 bg-blue-100 text-blue-800 cursor-pointer text-sm rounded-md font-semibold hover:bg-blue-200">
+                                Editar
+                            </button>
+            
+                            <button
+                            onclick="deleteItem(${item.id})"
+                            class="px-4 py-2 bg-red-200 text-red-700 cursor-pointer text-sm rounded-md font-semibold hover:bg-red-300">
+                            Eliminar
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+          <div class="${item.editing ? "" : "hidden"} flex flex-col gap-3">
+            <input
+              id="edit-text-${item.id}"
+              class="px-4 py-3 text-base bg-main outline-none sm:col-span-2"
+              value="${item.text}" />
+
+            <select
+              id="edit-cat-${item.id}"
+              class="px-4 py-3 text-base bg-main">
+              ${Object.keys(categories).map(cat =>
+                    `<option value="${cat}" ${cat === item.category ? "selected" : ""}>${cat}</option>`
+                ).join("")}
+            </select>
+
+            <div class="flex gap-2 justify-end pt-4">
+              <button
+                onclick="saveEdit(${item.id})"
+                class="px-4 py-2 bg-blue-100 text-blue-800 cursor-pointer text-sm rounded-md font-semibold hover:bg-blue-200">
+                Guardar
+              </button>
+
+              <button
+                onclick="toggleEdit(${item.id})"
+                class="px-4 py-2 bg-gray-100 text-gray-800 cursor-pointer text-sm rounded-md font-semibold hover:bg-gray-200">
+                Cancelar
+              </button>
             </div>
           </div>
         `;
 
-        list.appendChild(card);
-      });
-    }
+                list.appendChild(card);
+            });
+        }
 
-    updateCategorySelects();
-    render();
-  </script>
+        updateCategorySelects();
+        render();
+    </script>
 
 </body>
+
 </html>
