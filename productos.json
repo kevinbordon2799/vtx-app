@@ -1,5 +1,10 @@
 [
   {
+    "id": 1670,
+    "productName":"Panel flat LED 18w (Cuadrado) (KING) (Fría/Cálida)",
+    "price": 7900
+  },
+  {
     "id": 1660,
     "productName":"Térmica tripolar 10 A / 16 A / 20 A / 25 A / 32 A (CHINT)",
     "price": 15500
@@ -912,12 +917,12 @@
   {
     "id": 127,
     "productName": "Panel plafón LED 12w (Circular) (KING) (Fría/Cálida)",
-    "price": 6800
+    "price": 6900
   },
   {
     "id": 128,
     "productName": "Panel plafón LED 18w (Circular) (KING) (Fría/Cálida)",
-    "price": 8800
+    "price": 9000
   },
   {
     "id": 129,
@@ -927,12 +932,12 @@
   {
     "id": 130,
     "productName": "Panel plafón LED 24w (Circular) (KING) (Fría/Cálida)",
-    "price": 13945
+    "price": 14500
   },
   {
     "id": 131,
     "productName": "Panel plafón LED 6w (Circular) (KING) (Fría/Cálida)",
-    "price": 4648
+    "price": 4800
   },
   {
     "id": 132,
@@ -1052,7 +1057,7 @@
   {
     "id": 155,
     "productName": "Plafón LED Cuadrado 18W (Resiliente)",
-    "price": 7000
+    "price": 7500
   },
   {
     "id": 156,
@@ -1147,12 +1152,12 @@
   {
     "id": 174,
     "productName": "Reflector LED 20 W (Luz Fría) (Candela / KING)",
-    "price": 7500
+    "price": 6000
   },
   {
     "id": 175,
     "productName": "Reflector LED 30 W (Luz Fría) (Candela / KING)",
-    "price": 8500
+    "price": 7500
   },
   {
     "id": 176,
@@ -1162,7 +1167,7 @@
   {
     "id": 177,
     "productName": "Reflector LED 50 W (Luz Fría) (Candela / KING)",
-    "price": 12500
+    "price": 9900
   },
   {
     "id": 178,
@@ -1231,7 +1236,7 @@
   },
   {
     "id": 193,
-    "productName": "Térmica Bipolar 40A (Interelec)",
+    "productName": "Térmica bipolar 40A (Interelec)",
     "price": 8500
   },
   {
@@ -1241,12 +1246,12 @@
   },
   {
     "id": 195,
-    "productName": "Térmicas unipolares 16 A / 20 A / 25 A / 32 A (JELUZ)",
+    "productName": "Térmicas unipolar 16 A / 20 A / 25 A / 32 A (JELUZ)",
     "price": 5400
   },
   {
     "id": 196,
-    "productName": "Térmicas unipolares 40A (JELUZ)",
+    "productName": "Térmica unipolar 40A (JELUZ)",
     "price": 5500
   },
   {
