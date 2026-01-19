@@ -1,5 +1,35 @@
 [
   {
+    "id": 1660,
+    "productName":"Térmica tripolar 10 A / 16 A / 20 A / 25 A / 32 A (CHINT)",
+    "price": 15500
+  },
+  {
+    "id": 1650,
+    "productName": "Térmica bipolar 50A (CHINT)",
+    "price": 12300
+  },
+  {
+    "id": 1640,
+    "productName": "Térmica unipolar 40A (CHINT)",
+    "price": 6000
+  },
+  {
+    "id": 1630,
+    "productName": "Térmica unipolar 16 A / 20 A / 25 A / 32 A (CHINT)",
+    "price": 5500
+  },
+  {
+    "id": 1620,
+    "productName": "Térmica bipolar 40A (CHINT)",
+    "price": 11000
+  },
+  {
+    "id": 1610,
+    "productName": "Térmica bipolar 10 A / 16 A / 20 A / 25 A / 32 A (CHINT)",
+    "price": 9900
+  },
+  {
     "id": 1600,
     "productName": "Tornillos dorados (para tarugos del 6)",
     "price": 40
@@ -188,11 +218,6 @@
     "id": 1230,
     "productName": "Lámpara LED (galponera) 20w (Phillips)",
     "price": 7500
-  },
-  {
-    "id": 1220,
-    "productName": "Térmica bipolar 50A (CHINT)",
-    "price": 12000
   },
   {
     "id": 1210,
@@ -1191,23 +1216,18 @@
   },
   {
     "id": 189,
-    "productName": "Térmicas bipolar 16 A / 20 A / 25 A / 32 A (JELUZ / CHINT)",
+    "productName": "Térmica bipolar 16 A / 20 A / 25 A / 32 A (JELUZ)",
     "price": 9500
   },
   {
     "id": 190,
-    "productName": "Térmicas bipolar 16 A / 20 A / 25 A / 32 A (SICA)",
+    "productName": "Térmica bipolar 16 A / 20 A / 25 A / 32 A (SICA)",
     "price": 8500
   },
   {
     "id": 191,
     "productName": "Térmica bipolar 16 A / 20 A (SIEMENS / SCHNEIDER)",
     "price": 23000
-  },
-  {
-    "id": 192,
-    "productName": "Térmica bipolar 40A (CHINT)",
-    "price": 10500
   },
   {
     "id": 193,
@@ -1221,12 +1241,12 @@
   },
   {
     "id": 195,
-    "productName": "Térmicas unipolares 16 A / 20 A / 25 A / 32 A (JELUZ / CHINT)",
+    "productName": "Térmicas unipolares 16 A / 20 A / 25 A / 32 A (JELUZ)",
     "price": 5400
   },
   {
     "id": 196,
-    "productName": "Térmicas unipolares 40A (JELUZ / CHINT)",
+    "productName": "Térmicas unipolares 40A (JELUZ)",
     "price": 5500
   },
   {
