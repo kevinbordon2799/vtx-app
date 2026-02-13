@@ -1,5 +1,10 @@
 [
   {
+    "id": 1690,
+    "productName":"Cinta aisladora de 20 metros (INTECK)",
+    "price": 2300
+  },
+  {
     "id": 1680,
     "productName": "Disyuntor diferencial bipolar 25A (Sica)",
     "price": 31000
@@ -252,7 +257,7 @@
   {
     "id": 1170,
     "productName": "Cinta aisladora de 5 metros (INTECK)",
-    "price": 700
+    "price": 800
   },
   {
     "id": 1160,
@@ -362,7 +367,7 @@
   {
     "id": 7,
     "productName": "Alicate corte diagonal 180mm (7\") mango ergonómico (Jadever)",
-    "price": 9300
+    "price": 9500
   },
   {
     "id": 9,
@@ -1052,7 +1057,7 @@
   {
     "id": 153,
     "productName": "Pinza universal 180mm (7\") mango ergonómico (Jadever)",
-    "price": 9300
+    "price": 9500
   },
   {
     "id": 154,
