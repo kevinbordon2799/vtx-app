@@ -1,5 +1,10 @@
 [
   {
+    "id": 1700,
+    "productName": "Reflector LED 150 W (Luz Fría) (KING)",
+    "price": 27000
+  },
+  {
     "id": 1690,
     "productName":"Cinta aisladora de 20 metros (INTECK)",
     "price": 2300
@@ -1156,17 +1161,17 @@
   },
   {
     "id": 173,
-    "productName": "Reflector LED 10 W (Luz Fría)(Candela / KING)",
+    "productName": "Reflector LED 10 W (Luz Fría) (Candela / KING)",
     "price": 5000
   },
   {
     "id": 174,
-    "productName": "Reflector LED 20 W (Luz Fría) (Candela / KING)",
+    "productName": "Reflector LED 20 W (Luz Fría) (KING)",
     "price": 6000
   },
   {
     "id": 175,
-    "productName": "Reflector LED 30 W (Luz Fría) (Candela / KING)",
+    "productName": "Reflector LED 30 W (Luz Fría) (KING)",
     "price": 7500
   },
   {
@@ -1176,7 +1181,7 @@
   },
   {
     "id": 177,
-    "productName": "Reflector LED 50 W (Luz Fría) (Candela / KING)",
+    "productName": "Reflector LED 50 W (Luz Fría) (KING)",
     "price": 9900
   },
   {
