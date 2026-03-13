@@ -1,5 +1,10 @@
 [
   {
+    "id": 1710,
+    "productName": "Precintos 28cm",
+    "price": 80
+  },
+  {
     "id": 1700,
     "productName": "Reflector LED 150 W (Luz Fría) (KING)",
     "price": 27000
@@ -1101,18 +1106,18 @@
   },
   {
     "id": 161,
-    "productName": "Precintos 100 x 2,5mm (Chico)",
-    "price": 15
+    "productName": "Precintos 10cm",
+    "price": 20
   },
   {
     "id": 162,
-    "productName": "Precintos 150 x 3,6mm (Mediano)",
-    "price": 35
+    "productName": "Precintos 15cm",
+    "price": 40
   },
   {
     "id": 163,
-    "productName": "Precintos 250 x 4,8mm (Grande)",
-    "price": 45
+    "productName": "Precintos 25cm",
+    "price": 50
   },
   {
     "id": 164,
