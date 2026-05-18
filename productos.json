@@ -1,5 +1,25 @@
 [
   {
+    "id": 1770,
+    "productName": "Pinza universal 160mm (6\") mango ergonómico (Jadever)",
+    "price": 8500
+  },
+  {
+    "id": 1760,
+    "productName": "Disco diamante seco segmentado 115mm (Jadever)",
+    "price": 4800
+  },
+  {
+    "id": 1750,
+    "productName":"Pilas AA | AAA (Eveready)",
+    "price": 800
+  },
+  {
+    "id": 1740,
+    "productName": "Batería - Pila 9v (POWERSWITCH)",
+    "price": 2800
+  },
+  {
     "id": 1730,
     "productName": "Toma 20a simple (CHATO) (Jeluz exterior)",
     "price": 4000
@@ -1011,7 +1031,7 @@
   },
   {
     "id": 140,
-    "productName": "Pila Botón CR2032 Litio (Vinnic)",
+    "productName": "Pila Botón CR2032 Litio (POWERSWITCH)",
     "price": 800
   },
   {
