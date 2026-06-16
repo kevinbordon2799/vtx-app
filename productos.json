@@ -227,32 +227,32 @@
   {
     "id": 1320,
     "productName": "Cable TPR / tipo taller 2 x 1,5mm (metro)",
-    "price": 1600
+    "price": 1700
   },
   {
     "id": 1310,
     "productName": "Cable bipolar / paralelo 1,5mm (metro)",
-    "price": 700
+    "price": 800
   },
   {
     "id": 1300,
     "productName": "Cable unipolar 6mm (metro)",
-    "price": 2300
+    "price": 2500
   },
   {
     "id": 1290,
     "productName": "Cable unipolar 4mm (metro)",
-    "price": 1550
+    "price": 1700
   },
   {
     "id": 1280,
     "productName": "Cable unipolar 2,5mm (metro)",
-    "price": 890
+    "price": 1000
   },
   {
     "id": 1270,
     "productName": "Cable unipolar 1,5mm (metro)",
-    "price": 600
+    "price": 700
   },
   {
     "id": 1260,
@@ -727,7 +727,7 @@
   {
     "id": 77,
     "productName": "Fotocélula 1200w 6A - MACROLED / KALOP",
-    "price": 9500
+    "price": 9800
   },
   {
     "id": 78,
