@@ -1,5 +1,10 @@
 [
   {
+    "id": 1780,
+    "productName": "Destornillador Buscapolo 250v 3x190mm (Jadever)",
+    "price": 2500
+  },
+  {
     "id": 1770,
     "productName": "Pinza universal 160mm (6\") mango ergonómico (Jadever)",
     "price": 8500
@@ -597,7 +602,7 @@
   {
     "id": 50,
     "productName": "Destornillador Buscapolo 250v 3x140mm (Jadever)",
-    "price": 2500
+    "price": 2000
   },
   {
     "id": 51,
