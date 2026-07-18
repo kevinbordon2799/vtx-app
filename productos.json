@@ -177,37 +177,37 @@
   {
     "id": 1460,
     "productName": "Módulo TV (Jeluz Platinum)",
-    "price": 1700
+    "price": 1800
   },
   {
     "id": 1450,
     "productName": "Módulo pulsador/timbre (Jeluz Platinum)",
-    "price": 1000
+    "price": 1100
   },
   {
     "id": 1440,
     "productName": "Módulo punto combinado 10A (Jeluz Platinum)",
-    "price": 1100
+    "price": 1200
   },
   {
     "id": 1430,
     "productName": "Módulo toma 20A (Jeluz Platinum)",
-    "price": 1700
+    "price": 1800
   },
   {
     "id": 1420,
     "productName": "Módulo ciego (Jeluz Platinum)",
-    "price": 100
+    "price": 200
   },
   {
     "id": 1410,
     "productName": "Módulo punto común 10A (Jeluz Platinum)",
-    "price": 1000
+    "price": 1100
   },
   {
     "id": 1400,
     "productName": "Módulo toma 10A (Jeluz Platinum)",
-    "price": 1000
+    "price": 1100
   },
   {
     "id": 1390,
@@ -1152,7 +1152,7 @@
   {
     "id": 160,
     "productName": "Portalámparas cerámico",
-    "price": "2000"
+    "price": "1500"
   },
   {
     "id": 161,
