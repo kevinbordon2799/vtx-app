@@ -7,7 +7,7 @@
   {
     "id": 1800,
     "productName": "Candado LUXOM 50mm (resistente al agua)",
-    "price": 9500
+    "price": 9700
   },
   {
     "id": 1790,
@@ -27,7 +27,7 @@
   {
     "id": 1760,
     "productName": "Disco diamante seco segmentado 115mm (Jadever)",
-    "price": 4800
+    "price": 5000
   },
   {
     "id": 1750,
@@ -57,7 +57,7 @@
   {
     "id": 1700,
     "productName": "Reflector LED 150 W (Luz Fría) (KING)",
-    "price": 29000
+    "price": 29800
   },
   {
     "id": 1690,
@@ -77,22 +77,22 @@
   {
     "id": 1660,
     "productName":"Térmica tripolar 10 A / 16 A / 20 A / 25 A / 32 A (CHINT)",
-    "price": 17700
+    "price": 18000
   },
   {
     "id": 1650,
     "productName": "Térmica bipolar 50A (CHINT)",
-    "price": 14500
+    "price": 14900
   },
   {
     "id": 1640,
     "productName": "Térmica unipolar 40A (CHINT)",
-    "price": 7000
+    "price": 7200
   },
   {
     "id": 1630,
     "productName": "Térmica unipolar 16 A / 20 A / 25 A / 32 A (CHINT)",
-    "price": 6500
+    "price": 6700
   },
   {
     "id": 1620,
@@ -102,7 +102,7 @@
   {
     "id": 1610,
     "productName": "Térmica bipolar 10 A / 16 A / 20 A / 25 A / 32 A (CHINT)",
-    "price": 11500
+    "price": 11900
   },
   {
     "id": 1600,
@@ -242,7 +242,7 @@
   {
     "id": 1330,
     "productName": "Cable subterráneo 2 x 6mm (metro) (LEDs GO)",
-    "price": 4200
+    "price": 4500
   },
   {
     "id": 1320,
@@ -257,22 +257,22 @@
   {
     "id": 1300,
     "productName": "Cable unipolar 6mm (metro)",
-    "price": 2600
+    "price": 2650
   },
   {
     "id": 1290,
     "productName": "Cable unipolar 4mm (metro)",
-    "price": 1800
+    "price": 1850
   },
   {
     "id": 1280,
     "productName": "Cable unipolar 2,5mm (metro)",
-    "price": 1050
+    "price": 1100
   },
   {
     "id": 1270,
     "productName": "Cable unipolar 1,5mm (metro)",
-    "price": 700
+    "price": 750
   },
   {
     "id": 1260,
@@ -342,7 +342,7 @@
   {
     "id": 1120,
     "productName": "Reflector LED 50 W (Luz Fría) (LUXOM)",
-    "price": 8000
+    "price": 8300
   },
   {
     "id": 1110,
@@ -362,7 +362,7 @@
   {
     "id": 1080,
     "productName": "Lámpara LED (galponera) 38w / 40w (KING)",
-    "price": 6500
+    "price": 6700
   },
   {
     "id": 1060,
@@ -897,22 +897,22 @@
   {
     "id": 109,
     "productName": "Lámpara LED (galponera) 28w / 30w (KING)",
-    "price": 4500
+    "price": 4700
   },
   {
     "id": 110,
     "productName": "Lámpara LED (galponera) 28w / 30w (MACROLED)",
-    "price": 5500
+    "price": 5800
   },
   {
     "id": 111,
     "productName": "Lámpara LED (galponera) 38w / 40w (MACROLED)",
-    "price": 7900
+    "price": 8300
   },
   {
     "id": 112,
     "productName": "Lámpara LED (galponera) 48w / 50w (MACROLED)",
-    "price": 10700
+    "price": 11500
   },
   {
     "id": 113,
@@ -1112,7 +1112,7 @@
   {
     "id": 152,
     "productName": "Pinza pelacables 215mm (8,5\") (Jadever)",
-    "price": 14500
+    "price": 14900
   },
   {
     "id": 153,
@@ -1222,7 +1222,7 @@
   {
     "id": 174,
     "productName": "Reflector LED 20 W (Luz Fría) (KING)",
-    "price": 6800
+    "price": 7000
   },
   {
     "id": 175,
@@ -1232,12 +1232,12 @@
   {
     "id": 176,
     "productName": "Reflector LED 30w (Cuadrado) (MACROLED) (Fría/Cálida)",
-    "price": 18000
+    "price": 18900
   },
   {
     "id": 177,
     "productName": "Reflector LED 50 W (Luz Fría) (KING)",
-    "price": 10500
+    "price": 10800
   },
   {
     "id": 178,
