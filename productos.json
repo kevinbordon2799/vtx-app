@@ -1,5 +1,15 @@
 [
   {
+    "id": 1830,
+    "productName": "Protector de tensión/voltaje (Philco)",
+    "price": 15000
+  },
+  {
+    "id": 1820,
+    "productName": "Protector de tensión/voltaje (Forza)",
+    "price": 22000
+  },
+  {
     "id": 1810,
     "productName": "Lámpara LED (galponera) 20w (MACROLED)",
     "price": 3500
